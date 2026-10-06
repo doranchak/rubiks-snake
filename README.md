@@ -15,6 +15,10 @@ the figure catalog and notation documented at
 
 ## Running it
 
+Try out the version [hosted here on github](https://doranchak.github.io/rubiks-snake).
+
+To run locally:
+
 Browsers block ES module imports (`import`/`export`) from `file://` URLs, so
 serve the folder over plain HTTP:
 
