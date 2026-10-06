@@ -13,6 +13,8 @@ the figure catalog and notation documented at
   lets you try individual hinge positions interactively
 - Paste any custom notation string into the "Load custom notation" field
 
+Built by Claude Sonnet 5.
+
 ## Running it
 
 Try out the version [hosted here on github](https://doranchak.github.io/rubiks-snake).
