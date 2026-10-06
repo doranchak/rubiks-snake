@@ -1,0 +1,1855 @@
+{
+  "categories": [
+    {
+      "key": "easy",
+      "label": "Easy Figures",
+      "count": 85
+    },
+    {
+      "key": "hard",
+      "label": "Hard Figures",
+      "count": 73
+    },
+    {
+      "key": "manuals",
+      "label": "From Manuals",
+      "count": 33
+    },
+    {
+      "key": "fansfriends",
+      "label": "Fans & Friends",
+      "count": 69
+    }
+  ],
+  "figures": {
+    "easy": [
+      {
+        "id": "easy-000-pitti",
+        "title": "Pitti",
+        "notation": "1R1-2L2-3R2-5L2-6R3-7L2-7R1-9L2-10R2-12L2-12R3",
+        "rotation": "[106,27,-76]",
+        "img": "img/figures/easy/pitti.png"
+      },
+      {
+        "id": "easy-001-speedboat",
+        "title": "Speedboat",
+        "notation": "2R1-4L1-6R1-5L3-4R2-7L2-7R3-9L1-9R2-10L3-11R3",
+        "rotation": "[-53,43,-129]",
+        "img": "img/figures/easy/speedboat.png"
+      },
+      {
+        "id": "easy-002-small-ship",
+        "title": "Small Ship",
+        "notation": "1R3-2R1-3L1-4L1-5R1-6L1-4R1-7R3-7L3-8R1-9L1-10L1-12L1-11R1-10R1",
+        "rotation": "[-60,-6,156]",
+        "img": "img/figures/easy/smallship.png"
+      },
+      {
+        "id": "easy-003-compact",
+        "title": "Compact",
+        "notation": "1R3-3L2-4R3-3R2-5R1-5L2-6R3-7L2-7R3-6L2-8R1-8L2-9R3-11L2-12R1-9L2",
+        "rotation": "[77,43,117]",
+        "img": "img/figures/easy/compact.png"
+      },
+      {
+        "id": "easy-004-snowman",
+        "title": "Snowman",
+        "notation": "2L2-2R2-3R2-4L2-6L2-6R2-7R2-8L2-10L2-11R2-10R2-12L2",
+        "rotation": "[-159,19,94]",
+        "img": "img/figures/easy/snowman.png"
+      },
+      {
+        "id": "easy-005-compact",
+        "title": "Compact",
+        "notation": "1R2-2L3-3R3-4R3-4L2-5L2-5R1-6L2-6R3-9L3-11R2-12L2-10L1-9R2",
+        "rotation": "[-45,-39,44]",
+        "img": "img/figures/easy/compact2.png"
+      },
+      {
+        "id": "easy-006-leaf",
+        "title": "Leaf",
+        "notation": "2L3-3L1-2R2-4L3-5L1-4R2-6L1-7L2-7R2-9L1-10L1-11R2",
+        "rotation": "[-142,53,167]",
+        "img": "img/figures/easy/leaf.png"
+      },
+      {
+        "id": "easy-007-mask",
+        "title": "Mask",
+        "notation": "1R1-2R1-5L1-6L1-7R1-8L2-9L2-10R2-6R1-12L1-11R2",
+        "rotation": "[7,15,65]",
+        "img": "img/figures/easy/mask.png"
+      },
+      {
+        "id": "easy-008-row-houses",
+        "title": "Row Houses",
+        "notation": "1R3-2R1-2L2-3R3-4R3-4L2-3L2-5R1-5L2-6R1-6L2-7R3-7L2-8R3-8L2-9R1-9L2-10R1-10L2-11R3-11L2-12R2-12L2",
+        "rotation": "[-150,-49,-171]",
+        "img": "img/figures/easy/rowhouses.png"
+      },
+      {
+        "id": "easy-009-doubled",
+        "title": "Doubled",
+        "notation": "11R3-12R3-12L2-11L3-10L3-10R2-9R3-8R3-9L2-8L3-7R1-6R1-5R1-6L2-4R1-5L2-4L1-3L1-2R1-1R1-2L2-3R2",
+        "rotation": "[120,45,90]",
+        "img": "img/figures/easy/doubled.png"
+      },
+      {
+        "id": "easy-010-doubled-v1",
+        "title": "Doubled, v1",
+        "notation": "11R3-12R3-12L2-11L3-10L3-10R2-9R3-8R3-9L2-8L3-7R1-6R1-5R1-6L2-4R1-5L2-4L1-3L1-2R1-1R1-2L2-3R2-8L0",
+        "rotation": "[-60,-40,-67]",
+        "img": "img/figures/easy/doubledv1.png"
+      },
+      {
+        "id": "easy-011-doubled-v2",
+        "title": "Doubled, v2",
+        "notation": "11R3-12R3-12L2-11L3-10L3-10R2-9R3-8R3-9L2-8L3-7R1-6R1-5R1-6L2-4R1-5L2-4L1-3L1-2R1-1R1-2L2-3R2-8L1-6L3",
+        "rotation": "[116,-50,96]",
+        "img": "img/figures/easy/doubledv2.png"
+      },
+      {
+        "id": "easy-012-symmetry",
+        "title": "Symmetry",
+        "notation": "1R1-2R3-3L3-3R3-4R3-5L3-5R3-6R1-7R3-7L2-8R1-9L1-9R1-10R1-12R3-11R1-11L1",
+        "rotation": "[-65,7,26]",
+        "img": "img/figures/easy/symmetry.png"
+      },
+      {
+        "id": "easy-013-pod-racer",
+        "title": "Pod Racer",
+        "notation": "4R2-5L2-6L1-1R3-2L2-3L1-6R1-8L1-7R3-7L2-9L3-8R2-10R1-12L2-11L2-10L2",
+        "rotation": "[-147,-40,173]",
+        "img": "img/figures/easy/podracer.png"
+      },
+      {
+        "id": "easy-014-slide",
+        "title": "Slide",
+        "notation": "1R1-2L1-2R1-3L1-4L3-4R3-5L3-5R2-7L2-8R2-9R1-9L1-10L1-12R3-12L3-11R3-11L3",
+        "rotation": "[38,-52,90]",
+        "img": "img/figures/easy/slide.png"
+      },
+      {
+        "id": "easy-015-ostrich",
+        "title": "Ostrich",
+        "notation": "2R2-3L2-4L3-5L2-5R2-6R2-7L2-8L1-9L2-9R2-12R2",
+        "rotation": "[-176,41,-130]",
+        "img": "img/figures/easy/ostrich.png"
+      },
+      {
+        "id": "easy-016-obelisk",
+        "title": "Obelisk",
+        "notation": "12R1-11R1-12L2-10R3-10L2-11L2-8L2-7R2-5R2-5L3-1R1-2L1-3L1-4L1-2R2-3R2-4R2",
+        "rotation": "[-79,41,-78]",
+        "img": "img/figures/easy/obelisk.png"
+      },
+      {
+        "id": "easy-017-up-and-down",
+        "title": "Up and Down",
+        "notation": "1R1-2L2-3L2-4L2-5L2-6L2-6R3-7R1-8L2-9L2-10L2-11L2-12L2-12R3-7L2",
+        "rotation": "[23,-57,3]",
+        "img": "img/figures/easy/upanddown.png"
+      },
+      {
+        "id": "easy-018-ribbon",
+        "title": "Ribbon",
+        "notation": "2L2-3L2-3R2-5L1-4R2-5R3-6L3-7R1-7L3-6R3-8L2-8R3-9L1-9R1-10R1-11L3-11R2-10L1-12R2",
+        "rotation": "[-35,9,22]",
+        "img": "img/figures/easy/ribbon.png"
+      },
+      {
+        "id": "easy-019-windwheel",
+        "title": "Windwheel",
+        "notation": "1R1-2R3-2L2-4L3-3R2-4R1-5R3-5L2-6R2-7L3-7R1-8R3-8L2-9R2-10L3-10R1-11R3-11L2-12R2",
+        "rotation": "[-129,-26,94]",
+        "img": "img/figures/easy/windwheel.png"
+      },
+      {
+        "id": "easy-020-roofed",
+        "title": "Roofed",
+        "notation": "1R1-3L1-2R2-4L2-6R3-5L3-5R2-7R1-9L1-8R2-11L3-12R3-11R2-10L2-7L2",
+        "rotation": "[-1,-77,159]",
+        "img": "img/figures/easy/roofed.png"
+      },
+      {
+        "id": "easy-021-transport",
+        "title": "Transport",
+        "notation": "10R2-10L2-8L2-7R2-5R2-5L2-2R2",
+        "rotation": "[180,45,-33]",
+        "img": "img/figures/easy/transport.png"
+      },
+      {
+        "id": "easy-022-speedboat-2",
+        "title": "Speedboat 2",
+        "notation": "1R3-3L3-2R2-3R3-4L1-5L3-4R1-5R1-6R3-7R1-7L2-8R3-9L1-9R3-10L3-11L1-11R2-10R1-12R1",
+        "rotation": "[81,-36,-147]",
+        "img": "img/figures/easy/speedboat2.png"
+      },
+      {
+        "id": "easy-023-furby-by-tine",
+        "title": "Furby (by Tine)",
+        "notation": "1R2-2R3-3R1-3L2-4R2-5L2-6L2-6R2-8L2-9L3-10L1-9R2-11L2-12R2",
+        "rotation": "[26,0,45]",
+        "img": "img/figures/easy/furby.png"
+      },
+      {
+        "id": "easy-024-microscope",
+        "title": "Microscope",
+        "notation": "7L2-6L2-5R2-4L2-3L3-2R2-7R2-8R2-10L1-9L2-10R2-12R2-12L1",
+        "rotation": "[-161,-62,0]",
+        "img": "img/figures/easy/microscope.png"
+      },
+      {
+        "id": "easy-025-top",
+        "title": "Top",
+        "notation": "1R2-2L1-2R3-3R3-3L2-5L3-5R3-6R1-7L3-7R3-6L2-8L3-9L1-8R3-10L3-9R2-11R1-12L2-11L3-10R2",
+        "rotation": "[112,0,-45]",
+        "img": "img/figures/easy/top.png"
+      },
+      {
+        "id": "easy-026-mushroom",
+        "title": "Mushroom",
+        "notation": "2R3-2L2-4L3-4R3-5R1-6L3-6R3-5L2-7L3-8L1-7R3-9L3-8R2-9R2-10R3-11R2-12L2",
+        "rotation": "[-54,45,180]",
+        "img": "img/figures/easy/mushroom.png"
+      },
+      {
+        "id": "easy-027-upright",
+        "title": "Upright",
+        "notation": "1R3-3R3-3L2-4L1-4R1-5L1-6L1-6R3-8L3-7R1-7L2-9L3-10R1-9R3-10L3-12R1-11L2",
+        "rotation": "[-115,26,-27]",
+        "img": "img/figures/easy/upright.png"
+      },
+      {
+        "id": "easy-028-tapering",
+        "title": "Tapering",
+        "notation": "2R1-3L1-4L1-3R2-6R3-5R2-5L2-7R1-7L2-8R2-9L2-10L3-11R3-11L3-10R2",
+        "rotation": "[-49,-34,139]",
+        "img": "img/figures/easy/tapering.png"
+      },
+      {
+        "id": "easy-029-tapering-turned",
+        "title": "Tapering - turned",
+        "notation": "2R1-3L1-4L1-3R2-6R3-5R2-5L2-7R1-7L2-8R2-9L2-10L3-11R3-11L3-10R2-7L0",
+        "rotation": "[112,0,125]",
+        "img": "img/figures/easy/taperingturned.png"
+      },
+      {
+        "id": "easy-030-two-slants",
+        "title": "Two slants",
+        "notation": "1R2-2L2-3L2-3R2-5L2-6L1-7L1-6R2-8L3-9L3-8R2-7R2-9R3-10R3-10L2-11R1-12R3-12L2-11L2",
+        "rotation": "[120,-5,119]",
+        "img": "img/figures/easy/twoslants.png"
+      },
+      {
+        "id": "easy-031-waterfall",
+        "title": "Waterfall",
+        "notation": "1R1-2R3-4R3-3R1-3L2-6R3-5R1-5L2-8R3-7R1-7L2-10R3-9R1-9L2-12R3-11R1-11L2",
+        "rotation": "[22,21,180]",
+        "img": "img/figures/easy/waterfall.png"
+      },
+      {
+        "id": "easy-032-viaduct",
+        "title": "Viaduct",
+        "notation": "6L3-5L1-4R2-5R2-1R1-2R1-3L2-6R2-8R1-8L2-9R3-10L2-9L2-11R2-12L3",
+        "rotation": "[-165,-14,-41]",
+        "img": "img/figures/easy/viaduct.png"
+      },
+      {
+        "id": "easy-033-embracement",
+        "title": "Embracement",
+        "notation": "2L2-4L1-3R2-5L3-5R2-4R2-6R3-7R3-7L2-8R1-9R1-9L2-8L2-12L3-11L1-12R2-11R2-10R2",
+        "rotation": "[-65,3,-12]",
+        "img": "img/figures/easy/embracement.png"
+      },
+      {
+        "id": "easy-034-ra",
+        "title": "Ra",
+        "notation": "1R2-2L3-2R1-3L3-4L3-4R3-5L1-5R1-3R3-6L1-7L3-6R1-8L1-8R3-7R2-9L3-10L3-10R1-11L1-9R3-11R1-12R3-12L1",
+        "rotation": "[-160,15,-81]",
+        "img": "img/figures/easy/ra.png"
+      },
+      {
+        "id": "easy-035-window-to-the-world",
+        "title": "Window to the world",
+        "notation": "2L2-3R2-4R3-5R1-5L2-6R2-8L2-10R3-9R2-12R2-11R1-11L2",
+        "rotation": "[0,0,-135]",
+        "img": "img/figures/easy/windowtotheworld.png"
+      },
+      {
+        "id": "easy-036-compact-3",
+        "title": "Compact 3",
+        "notation": "2L2-3L2-3R2-4R3-5R1-6R2-7L2-8L2-5L2-10R3-9L2-9R2-12R2-11R1-11L2",
+        "rotation": "[180,-21,-180]",
+        "img": "img/figures/easy/compact3.png"
+      },
+      {
+        "id": "easy-037-mountain",
+        "title": "Mountain",
+        "notation": "2L3-2R3-3R1-4L3-3L2-5L1-5R1-4R2-6R3-7R1-8R3-9L3-10L1-10R3-9R2-7L2-11R1-11L2-12L1",
+        "rotation": "[112,0,-19]",
+        "img": "img/figures/easy/mountain.png"
+      },
+      {
+        "id": "easy-038-platform",
+        "title": "Platform",
+        "notation": "12L1-11R1-10R3-10L1-11L2-9L3-9R2-7R1-8R3-7L2-6L2-5R2-1R2-4L2",
+        "rotation": "[11,55,-134]",
+        "img": "img/figures/easy/platform.png"
+      },
+      {
+        "id": "easy-039-gate",
+        "title": "Gate",
+        "notation": "2L2-2R2-3R1-4R1-4L2-5L3-6L1-5R2-6R3-7R3-7L2-8R2-9L2-10L3-11R2",
+        "rotation": "[-168,63,45]",
+        "img": "img/figures/easy/gate.png"
+      },
+      {
+        "id": "easy-040-grotto",
+        "title": "Grotto",
+        "notation": "2R3-3R1-4L2-3L2-5L1-5R1-6L1-7L2-7R2-8R1-9L1-9R1-11L1-10R2-12L3-11R2",
+        "rotation": "[34,0,-45]",
+        "img": "img/figures/easy/grotto.png"
+      },
+      {
+        "id": "easy-041-heart",
+        "title": "Heart",
+        "notation": "12R2-12L1-11L1-11R2-10R1-10L3-9L2-8L1-7R3-7L3-6L3-6R2-5R2-3R3-2R1-3L2",
+        "rotation": "[140,-90,-159]",
+        "img": "img/figures/easy/heart.png"
+      },
+      {
+        "id": "easy-042-revelation",
+        "title": "Revelation",
+        "notation": "2R2-4R3-4L2-5R1-5L3-6L3-6R3-7L1-7R1-8L3-9L1-8R3-9R3-10L3-10R2-12L2",
+        "rotation": "[-148,0,135]",
+        "img": "img/figures/easy/revelation.png"
+      },
+      {
+        "id": "easy-043-square-hole",
+        "title": "Square Hole",
+        "notation": "1R2-2R2-4L2-5R2-4R2-7L2-8R2-9R2-10L2-11R2-12R2",
+        "rotation": "[11,-21,0]",
+        "img": "img/figures/easy/squarehole.png"
+      },
+      {
+        "id": "easy-044-flat-on-the-top",
+        "title": "Flat on the top",
+        "notation": "11R2-12L2-10L3-10R2-9L3-8R3-7R1-7L3-8L2-6L1-6R2-5R1-4R1-1R2-3L2",
+        "rotation": "[-172,25,45]",
+        "img": "img/figures/easy/flatonthetop.png"
+      },
+      {
+        "id": "easy-045-three-legged",
+        "title": "Three-legged",
+        "notation": "2L2-3L3-4L3-5L1-6L3-4R2-6R3-7R1-9R1-8R3-8L2-10L1-11L3-12L1-11R2",
+        "rotation": "[130,0,0]",
+        "img": "img/figures/easy/threelegged.png"
+      },
+      {
+        "id": "easy-046-compact-4",
+        "title": "Compact 4",
+        "notation": "1R2-2L3-3R2-5R2-7L3-6R2-8L1-7R2-5L2-8R2-9R2-10L2-11R2",
+        "rotation": "[-112,-34,-50]",
+        "img": "img/figures/easy/compact4.png"
+      },
+      {
+        "id": "easy-047-noname",
+        "title": "Noname",
+        "notation": "2L3-3L3-2R2-4L1-3R2-5L3-4R2-6L2-6R2-7R2-8R1-9R3-8L2-9L2-10R3-10L2-11R2",
+        "rotation": "[0,0,0]",
+        "img": "img/figures/easy/noname.png"
+      },
+      {
+        "id": "easy-048-shelter",
+        "title": "Shelter",
+        "notation": "2L2-3R2-6L1-6R1-7L3-7R3-8L3-9L1-8R3-9R1-10L1-11L3-10R1-11R3",
+        "rotation": "[6,45,-135]",
+        "img": "img/figures/easy/shelter.png"
+      },
+      {
+        "id": "easy-049-cactus",
+        "title": "Cactus",
+        "notation": "6R2-7L2-8L1-9L3-8R2-11L1-10R2-12L3-11R2-5R1-4R3-5L2-3L2-2R1-1R3-2L2",
+        "rotation": "[5,23,-45]",
+        "img": "img/figures/easy/cactus.png"
+      },
+      {
+        "id": "easy-050-two-wings",
+        "title": "Two Wings",
+        "notation": "2L1-3L2-3R2-4R2-5L2-6L2-6R2-7R1-8R3-9R1-10R3-11L3-9L2-12R2-12L1",
+        "rotation": "[27,45,-180]",
+        "img": "img/figures/easy/twowings.png"
+      },
+      {
+        "id": "easy-051-kink",
+        "title": "Kink",
+        "notation": "2L2-2R2-3R2-4R2-5L2-6R3-7R1-7L2-9L2-10R2-9R2-11R2-12L2",
+        "rotation": "[3,-31,32]",
+        "img": "img/figures/easy/kink.png"
+      },
+      {
+        "id": "easy-052-rocket",
+        "title": "Rocket",
+        "notation": "2L1-3L3-4L3-5L1-6L3-4R2-7L1-6R2-8L3-9L1-8R2-11L3-10L1-12R2-12L1",
+        "rotation": "[19,-58,-95]",
+        "img": "img/figures/easy/rocket.png"
+      },
+      {
+        "id": "easy-053-dna-strand",
+        "title": "DNA strand",
+        "notation": "1R1-2R1-2L2-3R1-3L2-4R1-4L2-5R1-5L2-6R1-6L2-7R1-7L2-8R1-8L2-9R1-9L2-10R1-10L2-11R1-11L2-12R1-12L2",
+        "rotation": "[33,19,-65]",
+        "img": "img/figures/easy/dnastrand.png"
+      },
+      {
+        "id": "easy-054-dogface",
+        "title": "Dogface",
+        "notation": "2R2-3L2-4L3-4R1-5L1-5R2-6R2-7L2-8L2-8R1-9R3-9L1-11L2-10R2-12R2",
+        "rotation": "[-180,0,45]",
+        "img": "img/figures/easy/dogface.png"
+      },
+      {
+        "id": "easy-055-cross",
+        "title": "Cross",
+        "notation": "2L2-3L2-3R2-4R2-6R2-7L2-9L2-10L2-11R2-10R2-12R2",
+        "rotation": "[180,0,45]",
+        "img": "img/figures/easy/cross.png"
+      },
+      {
+        "id": "easy-056-crown",
+        "title": "Crown",
+        "notation": "1R3-2R2-3R1-5L1-6L2-7L3-7R3-8R2-9R1-11L1-12L2",
+        "rotation": "[120,0,-62]",
+        "img": "img/figures/easy/crown.png"
+      },
+      {
+        "id": "easy-057-symbol",
+        "title": "Symbol",
+        "notation": "7R1-8L3-8R2-7L1-6R1-5R3-6L1-5L2-4L2-3R2-2R2-2L3-1R1-9R2-11L2-10L2-11R3-12L1-12R1",
+        "rotation": "[90,-45,-180]",
+        "img": "img/figures/easy/symbol.png"
+      },
+      {
+        "id": "easy-058-infinity",
+        "title": "Infinity",
+        "notation": "1R3-2L1-2R3-3L3-3R1-4L1-4R3-5L3-5R1-6L1-7L1-6R3-7R3-8L1-8R3-9L3-9R1-10L1-10R3-11L3-12R3-12L1-11R1",
+        "rotation": "[90,0,-45]",
+        "img": "img/figures/easy/infinity.png"
+      },
+      {
+        "id": "easy-059-wings-2",
+        "title": "Wings 2",
+        "notation": "1R1-2R2-3R3-4R1-5R1-5L2-4L2-6L1-6R1-7L3-7R3-8L1-9L1-10L1-9R2-8R1-11L3-10R2-12L2",
+        "rotation": "[-150,0,135]",
+        "img": "img/figures/easy/wings2.png"
+      },
+      {
+        "id": "easy-060-wingnut",
+        "title": "Wingnut",
+        "notation": "9R1-9L3-8R2-8L3-7R3-6R3-7L2-6L3-5L3-5R2-4R1-4L3-3R2-10L3-10R2",
+        "rotation": "[-33,-12,-105]",
+        "img": "img/figures/easy/wingnut.png"
+      },
+      {
+        "id": "easy-061-twins",
+        "title": "Twins",
+        "notation": "5R1-6L2-4R1-5L2-4L1-3L1-3R2-2L2-8L1-9L1-8R2-7R2-9R1-10R1-10L2-11R2",
+        "rotation": "[27,-29,139]",
+        "img": "img/figures/easy/twins.png"
+      },
+      {
+        "id": "easy-062-cross-2",
+        "title": "Cross 2",
+        "notation": "12L2-11R2-10R2-9R2-9L2-8L1-7R1-6R2-6L2-5L2-4L2-2R1-3R2-1R2-2L2",
+        "rotation": "[-159,-90,-11]",
+        "img": "img/figures/easy/cross2.png"
+      },
+      {
+        "id": "easy-063-chain-link",
+        "title": "Chain link",
+        "notation": "1R2-3R3-3L2-4L1-5L3-5R1-4R2-6L2-7R2-10L1-9R3-9L2-11L3-10R2-11R1-12L2",
+        "rotation": "[154,0,45]",
+        "img": "img/figures/easy/chainlink.png"
+      },
+      {
+        "id": "easy-064-frog-2",
+        "title": "Frog 2",
+        "notation": "6R1-5L3-4R3-3R1-3L3-2R3-1R3-4L2-7R3-9L1-9R1-10R3-11L1-11R1-12R1-10L2-7L2",
+        "rotation": "[-124,-68,-100]",
+        "img": "img/figures/easy/frog2.png"
+      },
+      {
+        "id": "easy-065-repetition",
+        "title": "Repetition",
+        "notation": "2L1-2R3-3L1-4R1-5R3-6R2-5L2-7L2-8L3-9L1-8R2-10R1-11R1-11L3-12R2",
+        "rotation": "[180,16,-101]",
+        "img": "img/figures/easy/repetition.png"
+      },
+      {
+        "id": "easy-066-blossom",
+        "title": "Blossom",
+        "notation": "2L2-3L3-3R3-4L3-5L2-6L1-6R1-7L1-8L2-9L3-11L2-10L3-9R3-12R1-12L1",
+        "rotation": "[0,0,0]",
+        "img": "img/figures/easy/blossom.png"
+      },
+      {
+        "id": "easy-067-cardboard",
+        "title": "Cardboard",
+        "notation": "2L2-2R2-3R2-4L2-5R1-5L2-6R3-7L2-8L2-8R2-9R2-10L2-6L2-11R3-11L2-12R1-12L2",
+        "rotation": "[-163,13,50]",
+        "img": "img/figures/easy/cardboard.png"
+      },
+      {
+        "id": "easy-068-mask-2",
+        "title": "Mask 2",
+        "notation": "1R1-2L3-3L1-3R3-2R2-4L3-5L3-4R2-6L2-7L2-8L2-9L1-10L1-9R2-10R1-11L3-12R3-12L1-11R2",
+        "rotation": "[23,0,0]",
+        "img": "img/figures/easy/mask2.png"
+      },
+      {
+        "id": "easy-069-dugout",
+        "title": "Dugout",
+        "notation": "1R1-2L1-3L3-3R1-2R2-4L1-4R1-5R3-5L1-6R1-6L2-7L1-8L2-9L3-12R2-11R3-11L3-9R3",
+        "rotation": "[21,31,-180]",
+        "img": "img/figures/easy/dugout.png"
+      },
+      {
+        "id": "easy-070-crystal",
+        "title": "Crystal",
+        "notation": "1R1-3L3-2R2-4L3-5L3-4R2-3R3-6L3-5R3-6R1-7L1-7R3-8R3-9R3-9L2-8L3-10R3-11L2-10L3-12L1",
+        "rotation": "[-164,19,139]",
+        "img": "img/figures/easy/crystal.png"
+      },
+      {
+        "id": "easy-071-well",
+        "title": "Well",
+        "notation": "1R3-2L3-2R2-3R1-4L1-5R1-5L3-4R2-6L1-6R1-7R3-7L1-8R1-8L2-9L1-10R3-10L2-12R3-12L3-11L3",
+        "rotation": "[37,-38,83]",
+        "img": "img/figures/easy/well.png"
+      },
+      {
+        "id": "easy-072-shrine",
+        "title": "Shrine",
+        "notation": "1R1-2L3-3L3-2R2-3R3-4R3-4L2-5R3-5L2-6L3-8L3-9L3-8R2-10L3-9R2-10R3-12R1-12L1-11R3-11L2-7R3",
+        "rotation": "[90,42,-156]",
+        "img": "img/figures/easy/shrine.png"
+      },
+      {
+        "id": "easy-073-view-2",
+        "title": "View 2",
+        "notation": "1R1-2L3-2R3-3R1-4R2-5L2-6L3-7L1-6R2-8L2-8R2-9R3-10R1-12R2-11R3-11L1",
+        "rotation": "[45,0,-90]",
+        "img": "img/figures/easy/view2.png"
+      },
+      {
+        "id": "easy-074-casket",
+        "title": "Casket",
+        "notation": "8L1-7R1-7L1-6R3-5R1-6L2-5L1-3R1-2R1-2L1-9L3-8R1-10L1-11R1-11L1-9R2-12R2",
+        "rotation": "[78,-33,-123]",
+        "img": "img/figures/easy/casket.png"
+      },
+      {
+        "id": "easy-075-claw",
+        "title": "Claw",
+        "notation": "2L3-3R1-5L1-5R1-6R3-7L1-7R1-6L2-8L1-9L3-8R1-11R3-10L1-9R2-12R2",
+        "rotation": "[-148,7,53]",
+        "img": "img/figures/easy/claw.png"
+      },
+      {
+        "id": "easy-076-diving-platform",
+        "title": "Diving platform",
+        "notation": "1R3-2R3-3L1-3R2-5L3-6L1-6R3-5R2-7L1-7R1-8L3-8R1-9R3-9L2-12L3-11R1-11L2",
+        "rotation": "[-63,0,-67]",
+        "img": "img/figures/easy/divingplatform.png"
+      },
+      {
+        "id": "easy-077-boom",
+        "title": "Boom",
+        "notation": "2L1-3L1-2R2-3R1-5L2-6R3-5R2-7R1-7L2-8R2-9L2-10R3-11L3-12L3-11R2",
+        "rotation": "[128,7,-167]",
+        "img": "img/figures/easy/boom.png"
+      },
+      {
+        "id": "easy-078-dumb-bell",
+        "title": "Dumb bell",
+        "notation": "1R2-2L1-3L1-2R2-5R1-6R1-6L2-7R3-7L2-8R1-8L2-12R2-12L1",
+        "rotation": "[24,7,135]",
+        "img": "img/figures/easy/dumbbell.png"
+      },
+      {
+        "id": "easy-079-new-year",
+        "title": "New Year",
+        "notation": "1R2-2L1-2R1-3L1-4R1-5R1-6R1-6L2-5L1-7R3-7L2-9R2-10L2-12R2-12L3",
+        "rotation": "[-135,0,-135]",
+        "img": "img/figures/easy/newyear.png"
+      },
+      {
+        "id": "easy-080-summer-house",
+        "title": "Summer house",
+        "notation": "2L1-1R2-3L3-5L3-4L1-3R2-7L3-6L1-5R2-8L3-7R2-6R2-9L1-11L1-10L3-9R2-12L1-12R2-11R2",
+        "rotation": "[25,-31,-85]",
+        "img": "img/figures/easy/summerhouse.png"
+      },
+      {
+        "id": "easy-081-beetle",
+        "title": "Beetle",
+        "notation": "1R2-2R2-4R1-3R2-5R3-5L2-6R2-7R2-8R2-9L2-11R1-10R3-11L2",
+        "rotation": "[-169,30,127]",
+        "img": "img/figures/easy/beetle.png"
+      },
+      {
+        "id": "easy-082-crunch",
+        "title": "Crunch",
+        "notation": "1R2-2L3-3L2-3R2-4R2-5L2-6L3-6R3-7L3-7R1-8R3-8L2-9L3-10L3-10R3-12L3-11R1-11L2-12R1",
+        "rotation": "[-154,0,-45]",
+        "img": "img/figures/easy/crunch.png"
+      },
+      {
+        "id": "easy-083-swimming-bird",
+        "title": "Swimming bird",
+        "notation": "1R2-2L1-3L2-3R2-4R2-5L2-6L3-6R3-7L3-7R1-8R3-8L2-9L3-10L3-10R3-12L3-11R1-11L2-12R1",
+        "rotation": "[-151,21,-94]",
+        "img": "img/figures/easy/swimmingbird.png"
+      },
+      {
+        "id": "easy-084-jewelry",
+        "title": "Jewelry",
+        "notation": "1R2-3L3-4L1-3R2-6L1-5R2-7L2-8L3-9L3-9R2-8R2-10L1-12L2-11L1-10R2",
+        "rotation": "[-132,29,178]",
+        "img": "img/figures/easy/jewelry.png"
+      }
+    ],
+    "hard": [
+      {
+        "id": "hard-000-svalbard",
+        "title": "Svalbard",
+        "notation": "1R2-2L1-3L3-3R1-4L1-4R2-5R3-7L3-6R1-6L2-8L1-8R3-7R2-9R1-9L2-12L1-11R3-11L3-10R2",
+        "rotation": "[-144,22,-90]",
+        "img": "img/figures/hard/spitzbergen.png"
+      },
+      {
+        "id": "hard-001-tea-light-stick",
+        "title": "Tea light stick",
+        "notation": "1R1-2R2-3L2-4L1-5L2-5R3-6L1-4R1-6R1-7L3-7R2-12R2-12L3-11R1-11L1-10R3-10L2-9R1-9L3-8R3-8L1",
+        "rotation": "[-150,25,90]",
+        "img": "img/figures/hard/tealightstick.png"
+      },
+      {
+        "id": "hard-002-three-peaks",
+        "title": "Three peaks",
+        "notation": "6R1-6L3-5R2-5L3-4R2-4L1-1R1-3L3-3R2-7L2-7R3-8L1-8R2-9L1-9R2-10L3-12R3-11L1-10R2",
+        "rotation": "[-103,27,-29]",
+        "img": "img/figures/hard/threepeaks.png"
+      },
+      {
+        "id": "hard-003-valley",
+        "title": "Valley",
+        "notation": "2L3-3L1-2R2-4L3-3R2-5L3-4R2-5R3-6L3-7L2-8L1-8R1-9L1-10L1-9R2-10R2-11L3-12L1-11R2",
+        "rotation": "[-161,-54,-97]",
+        "img": "img/figures/hard/valley.png"
+      },
+      {
+        "id": "hard-004-cross-3d",
+        "title": "Cross 3D",
+        "notation": "1R2-2R1-3R3-3L2-4R1-5R1-5L2-4L2-6L2-6R3-7R1-7L2-8R2-9L3-10L3-9R2-10R3-12R2-12L3-11R3-11L2",
+        "rotation": "[180,0,0]",
+        "img": "img/figures/hard/cross3d.png"
+      },
+      {
+        "id": "hard-005-no-clue",
+        "title": "No clue",
+        "notation": "2L3-3R3-3L1-2R2-4L1-5L1-6R1-6L3-5R2-7L2-7R3-8L1-8R2-9L3-11L3-10L3-10R1-12L1-11R2",
+        "rotation": "[-154,-25,-100]",
+        "img": "img/figures/hard/noclue.png"
+      },
+      {
+        "id": "hard-006-revolution",
+        "title": "Revolution",
+        "notation": "1R3-2L1-3L3-2R2-4L2-5L1-6R1-6L3-5R2-7L2-7R3-8L1-9L3-8R2-10L2-11L1-12R1-12L3-11R2",
+        "rotation": "[-155,45,-4]",
+        "img": "img/figures/hard/revolution.png"
+      },
+      {
+        "id": "hard-007-candle-stick",
+        "title": "Candle stick",
+        "notation": "1R3-2R3-2L2-3R1-4R3-4L2-5R1-6R1-6L2-7R3-8R3-8L2-9R1-10R3-10L2-11R1-12R1-12L2-7L2",
+        "rotation": "[-157,19,4]",
+        "img": "img/figures/hard/candlestick.png"
+      },
+      {
+        "id": "hard-008-chick",
+        "title": "Chick",
+        "notation": "1R1-2L3-2R1-3R3-3L2-4R3-4L2-5R1-5L2-6L3-6R1-7R3-8L1-8R3-9R1-10L2-9L2-7L2-10R1-12R3-12L1-11R3-11L2",
+        "rotation": "[130,-12,-66]",
+        "img": "img/figures/hard/chick.png"
+      },
+      {
+        "id": "hard-009-house-by-house",
+        "title": "House by house",
+        "notation": "1R3-2R3-2L2-3R3-3L2-4R1-4L2-5R1-5L2-6R1-6L2-7R3-8R3-8L2-9R3-9L2-10R1-10L2-11R1-11L2-12R1-12L2-7L2",
+        "rotation": "[-148,30,-7]",
+        "img": "img/figures/hard/housebyhouse.png"
+      },
+      {
+        "id": "hard-010-endless-belt",
+        "title": "Endless belt",
+        "notation": "2L3-2R3-4R3-5L3-6L2-8R1-8L1-7L1-6R1-9L1-10L1-9R2-10R1-11L1-12R1-12L1",
+        "rotation": "[19,34,-90]",
+        "img": "img/figures/hard/endlessbelt.png"
+      },
+      {
+        "id": "hard-011-windshield",
+        "title": "Windshield",
+        "notation": "12R2-11R2-11L2-10L1-9L3-9R2-8R1-8L2-7R3-6R2-5R1-4R3-4L1-5L2-3L3-3R2-1R2-2L2",
+        "rotation": "[134,0,104]",
+        "img": "img/figures/hard/windshield.png"
+      },
+      {
+        "id": "hard-012-long-necked",
+        "title": "Long necked",
+        "notation": "12L2-11R2-10R3-9R1-10L2-9L2-8R3-7R3-8L2-6R2-5R1-5L2-4R1-4L2-3R3-2R3-3L2-1R2",
+        "rotation": "[-25,0,-90]",
+        "img": "img/figures/hard/longnecked.png"
+      },
+      {
+        "id": "hard-013-sheep",
+        "title": "Sheep",
+        "notation": "12R3-12L3-11R3-11L1-10R3-10L1-9R3-9L3-8R3-7R1-8L3-7L3-6L3-6R1-5R3-5L3-3R1-4L1-4R3-3L3-1R1-2L1-2R3",
+        "rotation": "[133,-42,159]",
+        "img": "img/figures/hard/sheep.png"
+      },
+      {
+        "id": "hard-014-view",
+        "title": "View",
+        "notation": "2L3-3L1-3R2-2R2-4L3-5R1-6R3-6L2-7L1-7R1-10R3-9L1-8L3-8R2-11R1-12R3-12L2-11L2",
+        "rotation": "[-158,0,-45]",
+        "img": "img/figures/hard/view.png"
+      },
+      {
+        "id": "hard-015-source",
+        "title": "Source",
+        "notation": "12R2-12L3-11R1-11L1-10R1-9R3-10L1-8R1-9L2-8L3-7R3-6R3-6L1-5R2-7L3-5L3-3L2-4L1-4R2-1R2-2L3",
+        "rotation": "[-66,0,0]",
+        "img": "img/figures/hard/source.png"
+      },
+      {
+        "id": "hard-016-without-name",
+        "title": "Without name",
+        "notation": "1R2-2L3-2R2-3L3-3R1-4R3-4L2-5L1-5R2-6R2-7L3-8L1-7R2-8R2-9R2-10L3-10R1-12R2-12L1-11R3-11L2",
+        "rotation": "[45,-50,-81]",
+        "img": "img/figures/hard/withoutname.png"
+      },
+      {
+        "id": "hard-017-mole",
+        "title": "Mole",
+        "notation": "2L3-3L3-3R3-4L3-4R2-5R3-6R1-6L2-7R2-8L1-8R1-9L1-10L1-11L3-11R1-12R3-12L2",
+        "rotation": "[-64,9,-40]",
+        "img": "img/figures/hard/mole.png"
+      },
+      {
+        "id": "hard-018-cross-3d-v2",
+        "title": "Cross 3D v2",
+        "notation": "1R1-2L1-3L1-2R2-3R3-4R1-5L1-6L3-6R1-7L2-5R2-7R3-8L1-11L1-10R3-9R3-9L3-8R2-12R1-12L1-11R2",
+        "rotation": "[126,48,55]",
+        "img": "img/figures/hard/cross3dv2.png"
+      },
+      {
+        "id": "hard-019-fantasy",
+        "title": "Fantasy",
+        "notation": "1R3-2L1-2R1-3L2-4L3-5L1-6L1-5R2-7L3-8L3-7R2-6R2-9L1-10L2-10R3-11R1-12R2-12L3-11L3",
+        "rotation": "[9,-90,-171]",
+        "img": "img/figures/hard/fantasy.png"
+      },
+      {
+        "id": "hard-020-ship",
+        "title": "Ship",
+        "notation": "12R2-12L2-11L1-10L1-9L3-8L1-9R2-7L1-6R1-6L3-5R1-5L3-3R3-4L1-4R2-3L1-2R3-1R2-2L3",
+        "rotation": "[-63,2,-162]",
+        "img": "img/figures/hard/ship.png"
+      },
+      {
+        "id": "hard-021-tripple",
+        "title": "Tripple",
+        "notation": "1R2-3L1-2R2-4L3-5L3-4R2-3R2-5R2-7L1-6R2-7R2-8L3-8R2-10L1-9R2-11L1-10R2-12R2-12L3-11R2",
+        "rotation": "[52,-51,-84]",
+        "img": "img/figures/hard/tripple.png"
+      },
+      {
+        "id": "hard-022-left-as-right",
+        "title": "Left as right",
+        "notation": "1R1-2R3-2L2-3R3-4R1-5L1-6L3-6R1-5R2-3L3-7R3-7L2-8L1-9L3-9R3-10R1-8R2-11L1-11R1-12R3-12L2",
+        "rotation": "[-156,26,-90]",
+        "img": "img/figures/hard/leftasright.png"
+      },
+      {
+        "id": "hard-023-roofs",
+        "title": "Roofs",
+        "notation": "5R3-6R3-6L2-7R1-7L2-4R1-5L2-3R3-4L2-2R1-1R2-2L2-8R1-8L2-9R3-9L2-11R3-10R1-10L2-12R2-12L2",
+        "rotation": "[-148,61,170]",
+        "img": "img/figures/hard/roofs.png"
+      },
+      {
+        "id": "hard-024-contact",
+        "title": "Contact",
+        "notation": "1R2-3R3-3L2-4L1-5L1-4R2-6L3-5R1-7L1-7R3-6R2-8L3-9L3-9R1-8R2-10L2-11R2-12R2-12L3",
+        "rotation": "[14,71,-140]",
+        "img": "img/figures/hard/contact.png"
+      },
+      {
+        "id": "hard-025-another-figure",
+        "title": "Another figure",
+        "notation": "11R3-12L2-10R1-11L3-9R3-10L2-9L3-8L2-7L1-6R1-5R3-5L1-4R1-6L2-4L2-2R1-1R3-2L2",
+        "rotation": "[-179,-66,124]",
+        "img": "img/figures/hard/anotherfigure.png"
+      },
+      {
+        "id": "hard-026-luna-module",
+        "title": "Luna module",
+        "notation": "1R2-2L1-2R3-3L3-3R3-4R1-4L3-5R1-6R3-6L1-7L3-7R3-8R1-8L3-9R3-9L2-10L3-11L3-11R3-5L1-12R3",
+        "rotation": "[-159,45,-180]",
+        "img": "img/figures/hard/lunamodule.png"
+      },
+      {
+        "id": "hard-027-dog",
+        "title": "Dog",
+        "notation": "1R1-2L3-2R3-3L3-4L1-3R3-4R3-5L3-5R1-6L1-6R1-7R3-7L1-8L3-9L3-8R1-9R3-10L3-12R1-12L1-11L1-10R3",
+        "rotation": "[38,-28,108]",
+        "img": "img/figures/hard/dog.png"
+      },
+      {
+        "id": "hard-028-hole-in-the-middle",
+        "title": "Hole in the middle",
+        "notation": "2L1-2R1-3R3-4L1-3L2-5L3-4R2-5R3-6R3-7L3-8L3-8R3-11L1-10L3-9R1-9L2-10R2-12R1-11R1",
+        "rotation": "[-121,-29,17]",
+        "img": "img/figures/hard/holeinthemiddle.png"
+      },
+      {
+        "id": "hard-029-to-the-front",
+        "title": "To the Front",
+        "notation": "2R1-2L2-3L1-3R3-4L1-5L3-5R3-4R2-6R2-7L2-8L1-8R3-9L2-10L1-10R1-11R2-12R3",
+        "rotation": "[19,73,-155]",
+        "img": "img/figures/hard/tothefront.png"
+      },
+      {
+        "id": "hard-030-esthetic",
+        "title": "Esthetic",
+        "notation": "6R3-7R3-7L2-8R1-8L2-5R1-5L2-6L2-4R3-3R1-3L3-1R3-2L1-2R2-9R3-9L2-11L1-12R1-12L3-11R2-10R1",
+        "rotation": "[27,67,117]",
+        "img": "img/figures/hard/esthetic.png"
+      },
+      {
+        "id": "hard-031-cave",
+        "title": "Cave",
+        "notation": "1R1-3R3-3L2-4R2-5L2-6L3-6R3-8L3-7R1-7L2-8R3-9L1-10R1-10L3-9R2-11L1-11R2",
+        "rotation": "[125,0,135]",
+        "img": "img/figures/hard/cave.png"
+      },
+      {
+        "id": "hard-032-terraces",
+        "title": "Terraces",
+        "notation": "1R1-2L1-3L3-3R3-4R3-4L2-5L1-6L1-5R2-6R1-7R1-7L3-8L1-8R3-9R1-9L1-10R1-10L2-11L3-12R3-12L3-11R2",
+        "rotation": "[120,-45,90]",
+        "img": "img/figures/hard/terraces.png"
+      },
+      {
+        "id": "hard-033-hole-in-the-middle-2",
+        "title": "Hole in the middle 2",
+        "notation": "2R1-3R1-4L3-5L1-5R1-6R1-7L1-4R2-2L1-8L1-8R1-10L3-9R1-11L1-10R2-12R1-11R1",
+        "rotation": "[-133,57,14]",
+        "img": "img/figures/hard/holeinthemiddle2.png"
+      },
+      {
+        "id": "hard-034-entrance",
+        "title": "Entrance",
+        "notation": "1R3-2L1-2R1-3L3-3R1-4L1-4R3-5L3-6L3-6R1-7L3-5R3-7R3-8L1-8R3-12R1-12L1-11R3-11L1-10R1-10L3-9R3-9L3",
+        "rotation": "[-152,0,135]",
+        "img": "img/figures/hard/entrance.png"
+      },
+      {
+        "id": "hard-035-stage",
+        "title": "Stage",
+        "notation": "1R1-2R3-4L3-5L3-4R2-6L3-7L3-6R2-5R3-3R3-3L2-7R3-8R3-8L2-9L3-9R3-10R3-10L2-11L3-12L3-11R2",
+        "rotation": "[-150,0,-45]",
+        "img": "img/figures/hard/stage.png"
+      },
+      {
+        "id": "hard-036-fly",
+        "title": "Fly",
+        "notation": "2L1-3L3-2R2-4L2-4R3-5R3-5L2-6L3-7L3-8L3-7R2-6R2-9L1-10L1-9R2-8R2-12R1-11R1-12L2-11L1-10R2",
+        "rotation": "[-158,-24,159]",
+        "img": "img/figures/hard/fly.png"
+      },
+      {
+        "id": "hard-037-face",
+        "title": "Face",
+        "notation": "2L3-3L3-2R2-3R3-4R3-5L1-4L2-6L3-5R2-6R1-7R1-7L2-8L1-9L1-8R2-10L1-9R2-11L1-10R2-11R1-12R1-12L2",
+        "rotation": "[-135,-90,25]",
+        "img": "img/figures/hard/face.png"
+      },
+      {
+        "id": "hard-038-double-peak",
+        "title": "Double Peak",
+        "notation": "1R3-3L2-4R3-5L3-5R3-6R2-8L3-7R1-8R3-9R3-9L2-10L1-11L3-11R1-10R2-12R3-12L2",
+        "rotation": "[-153,-68,180]",
+        "img": "img/figures/hard/doublepeak.png"
+      },
+      {
+        "id": "hard-039-nestled-against",
+        "title": "Nestled against",
+        "notation": "12R3-12L1-11R3-11L3-9R1-10L3-10R3-8R3-9L2-8L3-7L1-6L3-6R2-4L3-4R1-5L2-3R3-3L1-1R3-2R2",
+        "rotation": "[51,0,45]",
+        "img": "img/figures/hard/nestledagainst.png"
+      },
+      {
+        "id": "hard-040-just-squares",
+        "title": "Just squares",
+        "notation": "1R1-2L3-2R3-3R3-3L2-4R1-5R1-5L2-4L2-6L1-6R3-7R1-8L3-8R3-9R3-9L2-10R1-11R1-11L2-10L2-12L1-12R3-7L2",
+        "rotation": "[90,0,0]",
+        "img": "img/figures/hard/justsquares.png"
+      },
+      {
+        "id": "hard-041-table-fireworks",
+        "title": "Table fireworks",
+        "notation": "2L3-2R3-4L3-3R1-4R1-3L2-5R3-5L2-7L3-6L3-7R3-9L3-8R1-8L2-9R1-11L1-10R1-10L2-12R2-12L3",
+        "rotation": "[25,77,-90]",
+        "img": "img/figures/hard/tablefireworks.png"
+      },
+      {
+        "id": "hard-042-head-of-devil",
+        "title": "Head of devil",
+        "notation": "1R2-2R1-3R1-4R3-5R1-4L2-6R1-6L2-7L1-8L1-8R3-7R2-9R1-9L2-10L3-11L3-10R2-11R3",
+        "rotation": "[-71,0,180]",
+        "img": "img/figures/hard/headofdevil.png"
+      },
+      {
+        "id": "hard-043-miss-piggy",
+        "title": "Miss Piggy",
+        "notation": "2L1-2R3-3R1-3L2-4R1-5L3-6R3-6L1-5R2-7L3-7R1-9L1-8R3-8L2-10L1-11L3-12R1-11R1-10R2",
+        "rotation": "[-125,-45,0]",
+        "img": "img/figures/hard/misspiggy.png"
+      },
+      {
+        "id": "hard-044-double-roof",
+        "title": "Double roof",
+        "notation": "2L1-2R3-3L3-3R1-4L1-4R1-5R3-5L1-6L3-6R3-7R1-8L1-8R3-9R3-12R1-11R3-11L1-10L3-10R2-12L2-7L3",
+        "rotation": "[-58,-41,-13]",
+        "img": "img/figures/hard/doubleroof.png"
+      },
+      {
+        "id": "hard-045-cradle",
+        "title": "Cradle",
+        "notation": "3R3-3L2-4R3-4L3-2L1-1R3-5L1-5R1-6L1-7L3-6R1-7R3-8L3-8R2-9R1-10L3-10R3-11L1-12R1",
+        "rotation": "[-61,45,-90]",
+        "img": "img/figures/hard/cradle.png"
+      },
+      {
+        "id": "hard-046-spider",
+        "title": "Spider",
+        "notation": "3R3-4R3-5L2-4L3-1R1-2L3-6L1-7L2-7R2-8R1-10L3-9R2-10R3-11L3-12R3",
+        "rotation": "[144,0,135]",
+        "img": "img/figures/hard/spider.png"
+      },
+      {
+        "id": "hard-047-faser-gun",
+        "title": "Faser gun",
+        "notation": "9L3-8L3-8R2-7R3-6R3-7L2-6L3-5L3-5R2-4L3-10L3-11L3-10R2-3L3-3R2-11R1-12R2-2R3",
+        "rotation": "[7,-33,67]",
+        "img": "img/figures/hard/fasergun.png"
+      },
+      {
+        "id": "hard-048-fountain",
+        "title": "Fountain",
+        "notation": "3L3-3R1-4R3-4L2-5R3-5L2-6L3-6R1-7R3-7L2-8R1-8L1-9L3-10R3-10L1-9R2-11L3-12L3-12R2-11R2-1R3-2L3-2R3",
+        "rotation": "[-65,45,0]",
+        "img": "img/figures/hard/fountain.png"
+      },
+      {
+        "id": "hard-049-x",
+        "title": "X",
+        "notation": "1R3-3R3-3L2-4L3-4R1-5R3-5L2-6L3-7L2-7R2-8R3-9L3-10L1-10R3-9R2-11L3-11R2",
+        "rotation": "[-36,0,134]",
+        "img": "img/figures/hard/x.png"
+      },
+      {
+        "id": "hard-050-camel",
+        "title": "camel",
+        "notation": "9L3-8L3-8R2-7R3-6R3-7L2-6L3-5L3-5R2-4L3-10L3-11L3-10R2-3L3-3R2-2R2-1R1-12R3",
+        "rotation": "[99,-13,-79]",
+        "img": "img/figures/hard/camel.png"
+      },
+      {
+        "id": "hard-051-beetle-2",
+        "title": "Beetle 2",
+        "notation": "7L3-7R3-8L1-8R1-9L1-10L3-9R1-11L1-11R1-12R1-12L2-5R1-6L3-6R3-5L1-4R1-2R1-3R3-4L1-1R2-2L1",
+        "rotation": "[-33,-54,82]",
+        "img": "img/figures/hard/beetle2.png"
+      },
+      {
+        "id": "hard-052-knot",
+        "title": "Knot",
+        "notation": "1R3-2L1-3L1-2R2-5L1-6L1-5R2-4R1-4L1-6R3-7L3-7R1-8R1-8L2-9L1-10R1-11R1-11L2-9R1-12L3-12R3",
+        "rotation": "[-25,-45,180]",
+        "img": "img/figures/hard/knot.png"
+      },
+      {
+        "id": "hard-053-mountains",
+        "title": "Mountains",
+        "notation": "5R1-6R1-6L2-4R1-5L2-4L1-3L1-3R2-2L2-7R3-8R3-8L2-7L2-9R3-9L2-10L3-11L3-10R2-12L2",
+        "rotation": "[86,90,147]",
+        "img": "img/figures/hard/mountains.png"
+      },
+      {
+        "id": "hard-054-uss-enterprice",
+        "title": "USS Enterprice",
+        "notation": "1R3-2R1-2L2-3R1-3L2-4L1-5L2-5R2-6R1-7L1-8L2-10L1-9R1-8R2-11L1-10R2-12L3-11R2",
+        "rotation": "[-160,-54,-44]",
+        "img": "img/figures/hard/ussenterprice.png"
+      },
+      {
+        "id": "hard-055-pyramid",
+        "title": "Pyramid",
+        "notation": "2L1-3L3-2R2-4L1-5L3-4R2-6L1-7L3-6R2-8L2-8R1-9R3-9L1-10L1-11L3-11R1-10R2-12L3-12R3",
+        "rotation": "[170,90,-135]",
+        "img": "img/figures/hard/pyramid.png"
+      },
+      {
+        "id": "hard-056-angel",
+        "title": "Angel",
+        "notation": "2L3-2R3-3R1-4L3-3L2-4R1-5L1-5R3-6L3-7R1-7L3-6R3-8L1-9L1-8R3-10L3-9R2-12R3-12L3-10R3",
+        "rotation": "[-90,45,-90]",
+        "img": "img/figures/hard/angel.png"
+      },
+      {
+        "id": "hard-057-globus",
+        "title": "Globus",
+        "notation": "3R3-4L1-4R1-5L3-5R3-7L1-6R3-6L3-7R1-3L2-2L1-1R1-8L1-9L3-8R1-9R3-10L3-10R2-11R1-12L1",
+        "rotation": "[-90,0,-45]",
+        "img": "img/figures/hard/globus.png"
+      },
+      {
+        "id": "hard-058-bud",
+        "title": "Bud",
+        "notation": "1R3-2L1-3L3-3R3-4R1-5L3-4L2-6L3-5R2-6R3-7R3-7L2-8L3-9L3-8R2-9R1-10R1-10L2-12R1-12L3-11L1",
+        "rotation": "[125,8,-170]",
+        "img": "img/figures/hard/bud.png"
+      },
+      {
+        "id": "hard-059-swan-2",
+        "title": "Swan 2",
+        "notation": "1R2-3L3-2R2-3R1-4L3-4R3-5L3-6L1-5R3-6R1-7L1-8L3-7R1-8R1-9L2-12R2-12L2",
+        "rotation": "[13,-23,127]",
+        "img": "img/figures/hard/swan2.png"
+      },
+      {
+        "id": "hard-060-bug",
+        "title": "Bug",
+        "notation": "1R1-2L1-2R1-3L1-3R3-4L1-4R1-5L1-6L3-5R1-6R1-7L1-8R3-8L1-7R1-9L1-9R3-10R1-10L3-11L1-12R1-12L3-11R3",
+        "rotation": "[-117,-3,128]",
+        "img": "img/figures/hard/bug.png"
+      },
+      {
+        "id": "hard-061-blossom-2",
+        "title": "Blossom 2",
+        "notation": "1R3-2L1-3L3-3R1-2R2-4L2-5L1-6L3-5R2-7R3-7L2-8L1-9L3-9R1-8R2-10L2-11L1-12L3-11R2",
+        "rotation": "[33,-27,-4]",
+        "img": "img/figures/hard/blossom2.png"
+      },
+      {
+        "id": "hard-062-hat",
+        "title": "Hat",
+        "notation": "2L3-3L1-2R2-4L3-4R3-5L3-6L3-6R1-7R2-8L2-10L3-9R1-11L3-11R3",
+        "rotation": "[130,-45,-180]",
+        "img": "img/figures/hard/hat.png"
+      },
+      {
+        "id": "hard-063-crown-2",
+        "title": "Crown 2",
+        "notation": "1R1-2R2-3L2-4L3-4R3-6L3-5R1-5L2-6R1-8L1-7R3-7L2-8R3-12R3-11R2-11L2-10L1-9R1-9L2",
+        "rotation": "[-59,0,-17]",
+        "img": "img/figures/hard/crown2.png"
+      },
+      {
+        "id": "hard-064-throne",
+        "title": "Throne",
+        "notation": "2R3-2L2-3L1-4L1-3R2-5R1-6L1-7L1-6R2-5L1-7R1-8R1-8L2-9L1-9R1-10R1-11R1-11L2-12L3-12R2",
+        "rotation": "[37,0,135]",
+        "img": "img/figures/hard/throne.png"
+      },
+      {
+        "id": "hard-065-jewel",
+        "title": "Jewel",
+        "notation": "1R1-2L1-3L3-4L3-3R2-4R3-6L1-5R3-5L2-6R1-7L1-8L3-7R1-8R2-9L3-9R3-10R3-10L2-11R1-12L1",
+        "rotation": "[-136,0,135]",
+        "img": "img/figures/hard/jewel.png"
+      },
+      {
+        "id": "hard-066-bow-2",
+        "title": "Bow 2",
+        "notation": "1R1-2R1-2L2-3R3-4L1-4R1-5L1-6L3-6R1-5R1-7R3-7L2-8L1-11R1-10R1-11L2-10L3-9R3-9L3-8R3-12R1-12L2",
+        "rotation": "[131,-90,167]",
+        "img": "img/figures/hard/bow2.png"
+      },
+      {
+        "id": "hard-067-downwards-2",
+        "title": "Downwards 2",
+        "notation": "2L1-3L3-3R2-2R2-4R1-5L1-6L3-6R1-5R2-7R3-7L2-8L1-9L3-8R2-9R3-10R2-11L1-12L3-11R2",
+        "rotation": "[-152,29,172]",
+        "img": "img/figures/hard/downwards2.png"
+      },
+      {
+        "id": "hard-068-uss-enterprice-2",
+        "title": "USS Enterprice 2",
+        "notation": "2L3-3L1-2R2-4L3-3R2-5R2-7L1-6L2-7R1-8R2-10R3-9L2-11R1-11L2-12R3-12L2",
+        "rotation": "[14,29,-42]",
+        "img": "img/figures/hard/ussenterprice2.png"
+      },
+      {
+        "id": "hard-069-mouse",
+        "title": "Mouse",
+        "notation": "12R1-12L3-11R1-11L3-10R1-9R1-9L1-8R3-7R3-10L1-6L3-5R1-5L1-3L1-3R3-4R1-4L1-7L3-2L1-1R1-2R3",
+        "rotation": "[18,27,-171]",
+        "img": "img/figures/hard/mouse.png"
+      },
+      {
+        "id": "hard-070-knot-on-legs",
+        "title": "Knot on legs",
+        "notation": "1R2-2L2-3L1-3R3-4R1-4L2-6L3-5R2-7R3-7L1-6R3-8L3-8R2-9R1-11L1-10R3-10L2-12R2-12L2",
+        "rotation": "[33,-30,-145]",
+        "img": "img/figures/hard/knotonlegs.png"
+      },
+      {
+        "id": "hard-071-memorial",
+        "title": "Memorial",
+        "notation": "1R2-2R3-4L2-5R3-4R2-6L3-7L3-6R2-7R3-8R3-8L2-9L3-12L3-10L2-10R2",
+        "rotation": "[38,0,135]",
+        "img": "img/figures/hard/memorial.png"
+      },
+      {
+        "id": "hard-072-buds",
+        "title": "Buds",
+        "notation": "1R3-2R3-2L2-3L1-4L3-3R2-4R1-6L1-5R3-5L2-7L1-6R2-7R1-9L3-8R1-8L2-10R3-10L1-9R2-12L3-11R1-11L2-12R2",
+        "rotation": "[13,-53,85]",
+        "img": "img/figures/hard/buds.png"
+      }
+    ],
+    "manuals": [
+      {
+        "id": "manuals-000-cat",
+        "title": "Cat",
+        "notation": "9R2-9L2-8L2-7R2-6R2-6L2-5L3-4L2-3R2-2R2-2L2",
+        "rotation": "[-60, 45, 0]",
+        "img": "img/figures/manuals/cat.png"
+      },
+      {
+        "id": "manuals-001-wolf",
+        "title": "Wolf",
+        "notation": "2R2-3L2-4L2-5R2-6R2-7L2-8L2-10L2-10R2-12R2",
+        "rotation": "[180, 0, 45]",
+        "img": "img/figures/manuals/wolf.png"
+      },
+      {
+        "id": "manuals-002-cook",
+        "title": "Cook",
+        "notation": "2R2-3L2-4L3-5L3-5R3-7R2-8L2-9L1-6R3-6L2-10L1-9R2-10R1-11R1-12R2",
+        "rotation": "[17,-17,45]",
+        "img": "img/figures/manuals/cook.png"
+      },
+      {
+        "id": "manuals-003-terrier",
+        "title": "Terrier",
+        "notation": "1R2-2R2-3L2-4L2-6L2-6R2-7R2-9L2-10L2-10R2",
+        "rotation": "[180,0,45]",
+        "img": "img/figures/manuals/terrier.png"
+      },
+      {
+        "id": "manuals-004-swan",
+        "title": "Swan",
+        "notation": "2L2-3L2-3R3-4L1-5L1-4R2-6L3-7L3-6R2-5R2-7R3-10L3-9L3-9R2-10R2-8R3-8L2-11L1-12R1-12L1-11R2",
+        "rotation": "[-169,28,133]",
+        "img": "img/figures/manuals/swan.png"
+      },
+      {
+        "id": "manuals-005-hexagon",
+        "title": "Hexagon",
+        "notation": "3R3-5L3-7R3-9L3-11R3",
+        "rotation": "[45,1,-45]",
+        "img": "img/figures/manuals/hexagon.png"
+      },
+      {
+        "id": "manuals-006-triangle",
+        "title": "Triangle",
+        "notation": "4R1-5L1-8R1-9L1-12R1",
+        "rotation": "[-120,0,135]",
+        "img": "img/figures/manuals/triangle.png"
+      },
+      {
+        "id": "manuals-007-parrot",
+        "title": "Parrot",
+        "notation": "3R1-4L3-5L1-6L3-5R2-7L3-8L3-9L3-11L3-10L1-9R2-11R3-12R2",
+        "rotation": "[9,-41,52]",
+        "img": "img/figures/manuals/parrot.png"
+      },
+      {
+        "id": "manuals-008-frog",
+        "title": "Frog",
+        "notation": "6R3-5R1-6L2-4R3-5L2-3R3-4L2-3L3-2L1-2R1-1R3-7R1-8R1-10R1-9R3-9L2-11L3-11R3-12L3-12R1",
+        "rotation": "[17,-55,85]",
+        "img": "img/figures/manuals/frog.png"
+      },
+      {
+        "id": "manuals-009-bow",
+        "title": "Bow",
+        "notation": "1R3-2L1-2R3-3L3-4R1-4L3-3R3-5L3-5R3-6L1-6R3-9L3-8R1-8L3-7R3-7L3-9R3-10L1-12R1-12L3-11R3-11L3-10R3",
+        "rotation": "[139,-45,0]",
+        "img": "img/figures/manuals/bow.png"
+      },
+      {
+        "id": "manuals-010-seal",
+        "title": "Seal",
+        "notation": "12R3-11R2-11L2-10L1-9R1-9L2-8L1-8R3-7R3-6R1-5R3-4R1-6L2-4L3-3R1-1R3-2L1-2R3-3L2",
+        "rotation": "[-163,51,129]",
+        "img": "img/figures/manuals/seal.png"
+      },
+      {
+        "id": "manuals-011-ball",
+        "title": "Ball",
+        "notation": "1R1-2L3-2R3-3L1-3R1-4L1-4R1-5L3-5R3-12R3-12L3-11R3-11L3-10R1-10L1-9R1-9L1-8R3-8L3-7R1-6R3-6L3-7L1",
+        "rotation": "[-72,17,50]",
+        "img": "img/figures/manuals/ball.png"
+      },
+      {
+        "id": "manuals-012-snowflake",
+        "title": "Snowflake",
+        "notation": "1R3-2L1-2R3-3L3-3R1-4L3-4R1-5L1-5R3-6L1-6R3-7L3-7R1-8L3-8R1-9L1-9R3-10L1-10R3-12L3-11R1-11L3-12R",
+        "rotation": "[-136,32,160]",
+        "img": "img/figures/manuals/snowflake.png"
+      },
+      {
+        "id": "manuals-013-propeller",
+        "title": "Propeller",
+        "notation": "3L3-4L1-4R1-5L1-7L3-8L1-8R1-11L3-9L1-12L1-12R1",
+        "rotation": "[-136,32,160]",
+        "img": "img/figures/manuals/propeller.png"
+      },
+      {
+        "id": "manuals-014-turtle",
+        "title": "Turtle",
+        "notation": "1R1-2L3-2R1-3L1-5L1-4R3-4L1-3R1-6R3-6L1-5R2-7L3-8L3-8R1-9L2-7R3-9R3-10L3-11R3-12L3",
+        "rotation": "[-51,0,135]",
+        "img": "img/figures/manuals/turtle.png"
+      },
+      {
+        "id": "manuals-015-duck",
+        "title": "Duck",
+        "notation": "1R2-3R1-4R1-6L1-8R1-7L3-6R2-9R3-9L2-11L3-12L3",
+        "rotation": "[-156,-20,-44]",
+        "img": "img/figures/manuals/duck.png"
+      },
+      {
+        "id": "manuals-016-telephone",
+        "title": "Telephone",
+        "notation": "4R1-5L3-5R3-7L1-6R3-6L3-10R1-11L3-11R3-12R3-12L3",
+        "rotation": "[-14,-34,26]",
+        "img": "img/figures/manuals/telephone.png"
+      },
+      {
+        "id": "manuals-017-flying-boat",
+        "title": "Flying boat",
+        "notation": "1R1-2R3-3R1-4R3-6R1-7R3-7L2-9R1-10R3-11R1-12R3",
+        "rotation": "[-131,13,141]",
+        "img": "img/figures/manuals/flyingboat.png"
+      },
+      {
+        "id": "manuals-018-penguin",
+        "title": "Penguin",
+        "notation": "2L2-2R2-3R2-4L2-5L1-6L1-5R2-6R3-7L1-9L3-8R1-8L1-7R1-9R3-11L1-10R3-10L3-11R1-12R2",
+        "rotation": "[-71,0,55]",
+        "img": "img/figures/manuals/penguin.png"
+      },
+      {
+        "id": "manuals-019-frog",
+        "title": "Frog",
+        "notation": "1R3-2R3-2L2-3L3-3R3-4L1-4R3-5L3-5R1-6L3-6R1-8L1-7R3-7L2-8R3-9L1-10L3-10R1-9R1-11L1-11R1-12R1-12L2",
+        "rotation": "[-153,-52,-86]",
+        "img": "img/figures/manuals/frog3.png"
+      },
+      {
+        "id": "manuals-020-turtle",
+        "title": "Turtle",
+        "notation": "1R3-2L3-2R3-3L3-3R1-4L1-4R1-5R3-5L1-6R1-6L2-7L3-8L1-7R2-9R1-8R1-10L1-11R1-11L3-10R2-12L3",
+        "rotation": "[116,-7,120]",
+        "img": "img/figures/manuals/turtle2.png"
+      },
+      {
+        "id": "manuals-021-giant-cobra",
+        "title": "Giant cobra",
+        "notation": "2L1-3L2-3R2-4R2-5L2-6L1-8R1-8L2-9L3-10L3-9R2-11L2-12L2",
+        "rotation": "[24,60,-91]",
+        "img": "img/figures/manuals/giantcobra.png"
+      },
+      {
+        "id": "manuals-022-dog",
+        "title": "Dog",
+        "notation": "1R2-2L1-2R3-3L1-4R3-4L3-3R2-5R3-6L3-7R3-7L1-6R2-8L1-9L1-10L2-10R2-11R2-12L2",
+        "rotation": "[-169,50,43]",
+        "img": "img/figures/manuals/dog2.png"
+      },
+      {
+        "id": "manuals-023-cat",
+        "title": "Cat",
+        "notation": "1R3-2L1-2R3-3R1-3L2-4L1-5L1-5R1-7L1-6R3-6L2-8L3-8R1-9L1-9R1-11L3-10R3-10L1-12R1-12L3-11R3",
+        "rotation": "[-174,42,133]",
+        "img": "img/figures/manuals/cat2.png"
+      },
+      {
+        "id": "manuals-024-ostrich",
+        "title": "Ostrich",
+        "notation": "1R2-3L1-2R2-3R3-4L1-4R1-5L1-6L3-5R1-6R3-7L3-8L1-7R3-8R1-9L2-10L2-12R2",
+        "rotation": "[-171,41,-46]",
+        "img": "img/figures/manuals/ostrich3.png"
+      },
+      {
+        "id": "manuals-025-airplane",
+        "title": "Airplane",
+        "notation": "1R2-3R1-5R2-6L2-8L2-11R1-11L2-10L2-9R2",
+        "rotation": "[-147,8,-81]",
+        "img": "img/figures/manuals/airplane.png"
+      },
+      {
+        "id": "manuals-026-desk",
+        "title": "Desk",
+        "notation": "1R1-2L3-3R3-3L1-2R2-4L3-4R1-5R3-5L2-7L2-6L3-7R2-8R3-9L3-10R3-10L1-9R2-11L3-11R1-12R3-12L2",
+        "rotation": "[132,0,-45]",
+        "img": "img/figures/manuals/desk.png"
+      },
+      {
+        "id": "manuals-027-turkey",
+        "title": "Turkey",
+        "notation": "1R2-6L1-5R2-6R3-7L1-8R3-8L3-7R2-9R3-10L3-12L1-11R3-11L1-10R2-12L1",
+        "rotation": "[-176,-21,-45]",
+        "img": "img/figures/manuals/turkey.png"
+      },
+      {
+        "id": "manuals-028-bird",
+        "title": "Bird",
+        "notation": "1R2-2R2-3L2-5L3-5R1-6L3-7L1-6R2-7R1-8R1-9L1-10R1-10L3-9R2-11L3-11R2",
+        "rotation": "[26,28,-45]",
+        "img": "img/figures/manuals/bird.png"
+      },
+      {
+        "id": "manuals-029-robot",
+        "title": "Robot",
+        "notation": "2L3-3L1-3R1-4L3-4R1-5L1-5R3-6L1-6R3-8L3-7R1-7L2-9L3-8R1-10R3-10L1-9R3-11L3-12L1",
+        "rotation": "[145,-90,-160]",
+        "img": "img/figures/manuals/robot.png"
+      },
+      {
+        "id": "manuals-030-giraffe",
+        "title": "Giraffe",
+        "notation": "2R1-3L3-3R1-4R3-5L3-4L2-6L3-6R3-8R1-8L3-7R1-7L2-12R2",
+        "rotation": "[-170,-45,135]",
+        "img": "img/figures/manuals/giraffe.png"
+      },
+      {
+        "id": "manuals-031-rocket",
+        "title": "Rocket",
+        "notation": "1R2-3L1-4L3-6R1-7R3-7L2-10L1-11L3-12R2",
+        "rotation": "[-160,-90,155]",
+        "img": "img/figures/manuals/rocket2.png"
+      },
+      {
+        "id": "manuals-032-toad",
+        "title": "Toad",
+        "notation": "1R3-2L2-3L2-3R3-4L1-5L3-4R2-6L1-6R3-7R1-7L2-8L3-9L1-10L3-11L2-10R1-9R2-12R1-12L2",
+        "rotation": "[137,79,-30]",
+        "img": "img/figures/manuals/toad.png"
+      }
+    ],
+    "fansfriends": [
+      {
+        "id": "fansfriends-000-cobra-by-ryan-a",
+        "title": "Cobra - by Ryan A.",
+        "notation": "2L3-2R3-3L1-3R1-4L1-5L3-4R1-5R3-6L3-7L1-6R3-7R3-8L1-9L1-9R1-11L2-12R1",
+        "rotation": "[8,61,-71]",
+        "img": "img/figures/fansfriends/cobra.png"
+      },
+      {
+        "id": "fansfriends-001-double-toboggan-moti",
+        "title": "Double toboggan - Moti",
+        "notation": "3L3-4L1-3R2-6L2-6R2-9L1-9R2-10L3-12R2",
+        "rotation": "[29,7,140]",
+        "img": "img/figures/fansfriends/doubletoboggan.png"
+      },
+      {
+        "id": "fansfriends-002-dumbling-spoon-j-rgen",
+        "title": "Dumbling spoon - Jürgen",
+        "notation": "1R2-5L1-6R3-7L3-8R3-10R1-9L3-2L2",
+        "rotation": "[3,-29,34]",
+        "img": "img/figures/fansfriends/dumblingspoon.png"
+      },
+      {
+        "id": "fansfriends-003-pair-of-glasses-j-rgen",
+        "title": "Pair of glasses - Jürgen",
+        "notation": "2L2-3R2-5L2-6L1-7L2-8L3-9L2-10R2-12L2",
+        "rotation": "[-180,0,0]",
+        "img": "img/figures/fansfriends/pairofglasses.png"
+      },
+      {
+        "id": "fansfriends-004-upside-down-j-rgen",
+        "title": "Upside down - Jürgen",
+        "notation": "1R2-3R2-4L2-5L3-5R1-6L1-7L2-6R3-7R1-8R3-8L3-9L1-10L2-10R2-12R2",
+        "rotation": "[7,55,-42]",
+        "img": "img/figures/fansfriends/upsidedown.png"
+      },
+      {
+        "id": "fansfriends-005-magnifying-glass-moti",
+        "title": "Magnifying glass - Moti",
+        "notation": "2R2-3R3-6R1-4R2-5L2-7R3-10R1-9R2-9L2-7L2-11R2",
+        "rotation": "[0,0,180]",
+        "img": "img/figures/fansfriends/magnifyingglass.png"
+      },
+      {
+        "id": "fansfriends-006-prawn-moti",
+        "title": "Prawn - Moti",
+        "notation": "1R1-2L2-3R1-3L2-4R2-5L2-6R3-7R1-7L2-9L2-10R3-9R2-11L2-12R3-12L2",
+        "rotation": "[-156,-71,-155]",
+        "img": "img/figures/fansfriends/prawn.png"
+      },
+      {
+        "id": "fansfriends-007-bronchosaurian-moti",
+        "title": "Bronchosaurian - Moti",
+        "notation": "2L2-3L2-3R2-4R2-6L2-7L2-7R2-12R2",
+        "rotation": "[0,0,-45]",
+        "img": "img/figures/fansfriends/bronchosaurian.png"
+      },
+      {
+        "id": "fansfriends-008-mouse-without-tail-moti",
+        "title": "Mouse without tail - Moti",
+        "notation": "7L2-9L2-9R2-10R1-12L2-11R2-7R3-5L2-6R1-4R2-3R3-2R2-2L2",
+        "rotation": "[73,28,-44]",
+        "img": "img/figures/fansfriends/mousewithouttail.png"
+      },
+      {
+        "id": "fansfriends-009-fantasy-moti",
+        "title": "Fantasy - Moti",
+        "notation": "3R2-3L2-4R2-1R2-5L3-5R3-6L3-6R1-7R3-7L2-8L1-8R1-9L1-9R2-10R2-11L2-12R2",
+        "rotation": "[33,27,-13]",
+        "img": "img/figures/fansfriends/fantasy2.png"
+      },
+      {
+        "id": "fansfriends-010-plait-moti",
+        "title": "Plait - Moti",
+        "notation": "1R3-2L1-2R3-3L1-3R3-4L1-4R3-5L1-5R3-6L1-7L1-7R1-8L3-8R1-9L3-9R1-10L3-10R1-11L3-11R1-12L3-12R3-6R1",
+        "rotation": "[177,-47,-135]",
+        "img": "img/figures/fansfriends/plait.png"
+      },
+      {
+        "id": "fansfriends-011-heart-lee-f",
+        "title": "Heart - Lee F.",
+        "notation": "7L2-9R1-4R3-3R3-10R1-12L2-2L2",
+        "rotation": "[0,0,0]",
+        "img": "img/figures/fansfriends/heart2.png"
+      },
+      {
+        "id": "fansfriends-012-necklace-lee-f",
+        "title": "Necklace - Lee F.",
+        "notation": "7L2-9R1-4R3-11R1-2R3",
+        "rotation": "[180,0,0]",
+        "img": "img/figures/fansfriends/necklace.png"
+      },
+      {
+        "id": "fansfriends-013-snake-ready-to-strike-ryan-a",
+        "title": "Snake ready to strike - Ryan A.",
+        "notation": "1R3-2R3-3R3-4R3-5L3-6L3-7L3-8L1-10L2-12R3",
+        "rotation": "[0,0,-45]",
+        "img": "img/figures/fansfriends/snakereadytostrike.png"
+      },
+      {
+        "id": "fansfriends-014-ufo-ryan-a",
+        "title": "UFO - Ryan A.",
+        "notation": "1R3-2L1-2R1-3L1-4L3-3R1-4R3-5L3-6L1-5R3-12R3-12L1-11R1-11L1-10L3-10R1-9R3-9L3-8L1-8R3-7R3-6R3-7L2",
+        "rotation": "[121,-4,16]",
+        "img": "img/figures/fansfriends/ufo.png"
+      },
+      {
+        "id": "fansfriends-015-quarterback-tilted-lee-f",
+        "title": "Quarterback tilted - Lee F.",
+        "notation": "1R2-2R1-3L3-3R3-4L3-5L3-5R3-4R2-6L3-7L2-8L1-8R1-10L1-9R2-10R1-11R3-11L1-12R2-9L1",
+        "rotation": "[25,-52,-41]",
+        "img": "img/figures/fansfriends/quarterbacktilted.png"
+      },
+      {
+        "id": "fansfriends-016-alan-h",
+        "title": ". - Alan H.",
+        "notation": "10L3-9L1-9R1-8L3-8R3-7R3-6R1-7L3-6L2-5R3-5L3-3R3-3L3-1R3-2L3-10R1-11L2-11R1-12R2-12L1",
+        "rotation": "[-67,0,45]",
+        "img": "img/figures/fansfriends/alanh.png"
+      },
+      {
+        "id": "fansfriends-017-alan-h",
+        "title": ". - Alan H.",
+        "notation": "10L3-9L1-9R1-8L3-8R3-7R3-6R1-7L3-6L2-5R3-5L3-3R3-3L3-1R3-2L3-10R3-11L1-11R1-12L1-12R1",
+        "rotation": "[-67,0,45]",
+        "img": "img/figures/fansfriends/alanh2.png"
+      },
+      {
+        "id": "fansfriends-018-alan-h",
+        "title": ". - Alan H.",
+        "notation": "10L3-9L1-9R1-8L3-8R3-7R3-6R1-7L3-6L2-5R3-5L3-3R3-3L3-1R3-2L3-12R2-12L3-11R3-10R3-11L2",
+        "rotation": "[-67,0,45]",
+        "img": "img/figures/fansfriends/alanh3.png"
+      },
+      {
+        "id": "fansfriends-019-alan-h",
+        "title": ". - Alan H.",
+        "notation": "7L2-6L3-5R3-5L3-4L1-3R1-3L1-2R2-11L3-11R2-10R3-10L3-9L1-8R1-8L1",
+        "rotation": "[-152,21,178]",
+        "img": "img/figures/fansfriends/alanh4.png"
+      },
+      {
+        "id": "fansfriends-020-f-zero-x-car-alan-h",
+        "title": "F-Zero X car - Alan H.",
+        "notation": "1R1-2L3-2R3-3L3-4L1-3R3-5L3-4R2-5R3-7L3-7R3-9L1-9R1-10R1-10L2-11L1-12L1-12R1-11R2",
+        "rotation": "[87,-23,67]",
+        "img": "img/figures/fansfriends/fzeroxcar.png"
+      },
+      {
+        "id": "fansfriends-021-cobra-2-ryan-a",
+        "title": "Cobra 2 - Ryan A.",
+        "notation": "1R3-2R2-3R2-4L1-5L2-6L1-6R3-7L2-7R1-8L3-9L2-10L3-10R2-11R2-12R1",
+        "rotation": "[101,14,59]",
+        "img": "img/figures/fansfriends/cobra2.png"
+      },
+      {
+        "id": "fansfriends-022-rattlesnake-ryan-a",
+        "title": "Rattlesnake - Ryan A.",
+        "notation": "1R3-2R3-3R3-4R3-5L1-6L1-7L1-8L1-8R1-9R2-10L3-10R1-11L3-11R1-12L3-12R",
+        "rotation": "[-180,1,-25]",
+        "img": "img/figures/fansfriends/rattlesnake.png"
+      },
+      {
+        "id": "fansfriends-023-symmetry-patrick-w",
+        "title": "Symmetry - Patrick W.",
+        "notation": "2R3-2L2-3L1-3R2-5L1-6L3-5R2-7L1-7R3-6R2-8R1-9L3-8L2-10L1-10R3-9R2-11R1-11L2-12R3-12L2",
+        "rotation": "[139,47,-26]",
+        "img": "img/figures/fansfriends/symmetry2.png"
+      },
+      {
+        "id": "fansfriends-024-flamingo-felix-w",
+        "title": "Flamingo - Felix W.",
+        "notation": "1R2-3R2-4R2-5L2-6L2-7L2-8R2-7R2-9L2-11L2-11R2-12R2",
+        "rotation": "[0,0,-45]",
+        "img": "img/figures/fansfriends/flamingo.png"
+      },
+      {
+        "id": "fansfriends-025-felix-w",
+        "title": ". - Felix W.",
+        "notation": "2L3-3R3-3L2-4R3-5L3-6R1-7R3-7L2-9L1-9R1-10R1-12L1-11L2",
+        "rotation": "[-167,-73,-108]",
+        "img": "img/figures/fansfriends/felixw.png"
+      },
+      {
+        "id": "fansfriends-026-cobra-michael-w",
+        "title": "Cobra - Michael W.",
+        "notation": "2L1-3L2-3R2-4R2-5L2-6L3-7L2-8R3-10R2-12R3",
+        "rotation": "[-165,37,104]",
+        "img": "img/figures/fansfriends/cobra3.png"
+      },
+      {
+        "id": "fansfriends-027-sculpture-bill-a",
+        "title": "Sculpture - Bill A.",
+        "notation": "1R3-2L3-2R2-4R1-4L2-5L1-5R1-7R2-8L3-8R3-9L3-9R1-10L1-10R1-11L2",
+        "rotation": "[-116,25,-116]",
+        "img": "img/figures/fansfriends/sculpture.png"
+      },
+      {
+        "id": "fansfriends-028-cross-stig-e",
+        "title": "Cross - Stig E.",
+        "notation": "2R2-3L2-4L1-6L2-7L3-5R2-9L2-10L1-11R2-12L2-8R2",
+        "rotation": "[-158,54,87]",
+        "img": "img/figures/fansfriends/cross3.png"
+      },
+      {
+        "id": "fansfriends-029-bone-stig-e",
+        "title": "Bone - Stig E.",
+        "notation": "5L3-4L2-3R2-2R1-1R2-2L2-9L1-10L2-10R2-11R3-12R2-12L2",
+        "rotation": "[-135,5,-35]",
+        "img": "img/figures/fansfriends/bone.png"
+      },
+      {
+        "id": "fansfriends-030-penis-stig-e",
+        "title": "Penis - Stig E.",
+        "notation": "1R2-2R3-2L2-3R2-4L2-5L2-6R3-7R1-7L2-9L2-10L2-10R2-11R1-12R2-12L2",
+        "rotation": "[17,55,180]",
+        "img": "img/figures/fansfriends/penis.png"
+      },
+      {
+        "id": "fansfriends-031-square-stig-e",
+        "title": "Square - Stig E.",
+        "notation": "2R3-3L1-4L3-3R2-4R1-6L1-6R3-7R1-7L2-8L3-9R3-10L1-11R1-11L3-10R2",
+        "rotation": "[0,0,90]",
+        "img": "img/figures/fansfriends/square.png"
+      },
+      {
+        "id": "fansfriends-032-monk-stig-e",
+        "title": "Monk - Stig E.",
+        "notation": "2R3-3R2-4L2-5L1-5R1-6L1-6R3-7L3-7R3-8R1-8L3-9L1-9R1-10R2-12L3-11L2-1R2",
+        "rotation": "[28,0,-45]",
+        "img": "img/figures/fansfriends/monk.png"
+      },
+      {
+        "id": "fansfriends-033-ostrich-stig-e",
+        "title": "Ostrich - Stig E.",
+        "notation": "1R2-2L2-3R3-3L2-4L1-4R3-5L3-5R3-6R1-6L3-7L1-7R1-8R3-8L1-9L3-9R2-10R2-12L2",
+        "rotation": "[-159,13,-136]",
+        "img": "img/figures/fansfriends/ostrich2.png"
+      },
+      {
+        "id": "fansfriends-034-tent-stig-e",
+        "title": "Tent - Stig E.",
+        "notation": "1R1-3L3-3R3-7L1-5L3-5R3-7R1-9L3-9R3-11L3-11R3",
+        "rotation": "[111,-8,-35]",
+        "img": "img/figures/fansfriends/tent.png"
+      },
+      {
+        "id": "fansfriends-035-diamond-stig-e",
+        "title": "Diamond - Stig E.",
+        "notation": "2L3-3R3-5L3-6L1-6R3-7L3-7R3-5R2-8R1-8L3-9R3-9L2-11L3-12R3",
+        "rotation": "[133,0,-45]",
+        "img": "img/figures/fansfriends/diamond.png"
+      },
+      {
+        "id": "fansfriends-036-mirror-stig-e",
+        "title": "Mirror - Stig E.",
+        "notation": "1R2-2L3-2R3-3R2-4L2-5R3-6L3-12L2-11R2-9R1-10R1-10L2-9L1-7R2",
+        "rotation": "[0,-45,0]",
+        "img": "img/figures/fansfriends/mirror.png"
+      },
+      {
+        "id": "fansfriends-037-compact-stig-e",
+        "title": "Compact - Stig E.",
+        "notation": "1R3-2R3-3R1-3L2-4R3-4L2-5R3-5L2-6R1-6L2-7R1-7L2-8R3-8L2-10R1-11R1-11L2-12R3-12L2-9R1-9L2",
+        "rotation": "[-122,-90,-122]",
+        "img": "img/figures/fansfriends/compact5.png"
+      },
+      {
+        "id": "fansfriends-038-houseboat-stig-e",
+        "title": "Houseboat - Stig E.",
+        "notation": "1R1-2L3-3L1-2R2-3R3-4L1-4R2-5L3-5R1-6L3-6R2-7R1-8R3-9R1-9L2-10L2-10R3-11R3-12L3-11L2-7L1-12R2",
+        "rotation": "[-151,0,0]",
+        "img": "img/figures/fansfriends/houseboat.png"
+      },
+      {
+        "id": "fansfriends-039-shpongle-stig-e",
+        "title": "Shpongle - Stig E.",
+        "notation": "1R3-2L3-3L3-3R3-4L3-5L3-5R3-6L3-7L3-7R3-8L3-9L3-9R3-10L3-11L3-11R3-12L3",
+        "rotation": "[-45,-38,11]",
+        "img": "img/figures/fansfriends/shpongle.png"
+      },
+      {
+        "id": "fansfriends-040-integral-stig-e",
+        "title": "Integral - Stig E.",
+        "notation": "1R1-2L3-2R1-3L3-3R1-4L1-4R3-5L3-5R3-6R1-6L3-7L1-8L1-7R3-8R3-9L1-9R3-10L3-10R1-11L1-11R1-12L1-12R3",
+        "rotation": "[56,-42,-95]",
+        "img": "img/figures/fansfriends/integral.png"
+      },
+      {
+        "id": "fansfriends-041-pokemon-stig-e",
+        "title": "Pokemon - Stig E.",
+        "notation": "1R3-2L1-2R1-3L1-4L3-3R1-4R3-5L1-5R3-6L3-6R3-7R1-7L3-8L1-8R3-9L3-9R1-10L1-11L3-11R3-12L3-12R1-10R3",
+        "rotation": "[64,-26,59]",
+        "img": "img/figures/fansfriends/pokemon.png"
+      },
+      {
+        "id": "fansfriends-042-swan-stig-e",
+        "title": "Swan - Stig E.",
+        "notation": "1R2-2L2-4L3-5L3-6R3-9L3-12R1-11R1-10L1-7R1-7L2-9R2",
+        "rotation": "[8,-19,42]",
+        "img": "img/figures/fansfriends/swan3.png"
+      },
+      {
+        "id": "fansfriends-043-iron-stig-e",
+        "title": "Iron - Stig E.",
+        "notation": "4L3-3R2-5L3-6R3-7R1-9L3-10L1-9R2-11R1-12R1-7L2",
+        "rotation": "[11,25,134]",
+        "img": "img/figures/fansfriends/iron.png"
+      },
+      {
+        "id": "fansfriends-044-seal-stig-e",
+        "title": "Seal - Stig E.",
+        "notation": "1R1-2L2-3L1-3R3-4L1-4R1-5L1-6R1-6L3-5R1-8L3-7R1-7L2-9L1-8R2-9R1-11L1-11R1",
+        "rotation": "[-128,-25,-31]",
+        "img": "img/figures/fansfriends/seal2.png"
+      },
+      {
+        "id": "fansfriends-045-basket-stig-e",
+        "title": "Basket - Stig E.",
+        "notation": "1R3-2R3-3L1-4L3-3R2-5R3-4R3-6L3-7L1-7R3-6R2-8R3-9L3-10L3-10R1-12L3-11R1",
+        "rotation": "[-155,45,88]",
+        "img": "img/figures/fansfriends/basket.png"
+      },
+      {
+        "id": "fansfriends-046-chair-stig-e",
+        "title": "Chair - Stig E.",
+        "notation": "1R3-2L1-2R1-3L1-4R2-6L2-5L2-6R2-7R2-8L2-10L1-10R1-11L3-11R1-12L1-12R1-9R1",
+        "rotation": "[-152,-22,90]",
+        "img": "img/figures/fansfriends/chair.png"
+      },
+      {
+        "id": "fansfriends-047-bra-stig-e",
+        "title": "Bra - Stig E.",
+        "notation": "1R1-2L3-2R3-3L1-3R1-4L1-4R1-5L3-5R3-6L1-6R3-7L3-7R1-8L3-8R3-9L1-9R1-10L1-10R1-11L3-11R3-12L1-12R3",
+        "rotation": "[127,45,0]",
+        "img": "img/figures/fansfriends/bra.png"
+      },
+      {
+        "id": "fansfriends-048-stork-peter-s-n",
+        "title": "Stork - Peter S. N.",
+        "notation": "1R2-3R1-4L1-5L3-6L1-7L1-5R2-8L1-9L1-11L1-10L3-9R2-11R1-12R2",
+        "rotation": "[-143,14,-82]",
+        "img": "img/figures/fansfriends/stork.png"
+      },
+      {
+        "id": "fansfriends-049-bunchin-hitoshi-i",
+        "title": "Bunchin - Hitoshi I.",
+        "notation": "12R2-11R1-10R3-11L2-9R1-8R1-9L2-10L2-8L1-7L1-7R2-6L3-4R3-3R3-4L2-5L3-6R2-2R1-3L2-1R3-5R2-2L2",
+        "rotation": "[-164,0,90]",
+        "img": "img/figures/fansfriends/bunchin.png"
+      },
+      {
+        "id": "fansfriends-050-compact-brian-h",
+        "title": "Compact - Brian H.",
+        "notation": "12R2-11R1-10R3-11L2-9R1-8R1-9L2-10L2-8L1-7L1-7R2-6L3-4R3-3R3-4L2-5L3-6R2-2R1-3L2-1R3-5R2-2L2",
+        "rotation": "[-164,0,90]",
+        "img": "img/figures/fansfriends/bunchin.png"
+      },
+      {
+        "id": "fansfriends-051-kirk-s-chair-gerry-l",
+        "title": "Kirk's chair - Gerry L.",
+        "notation": "1R1-2R3-2L2-3R3-3L2-5R1-4R1-5L2-4L2-6R3-7R1-8R3-9R3-9L2-10R1-10L2-11R1-11L2-12R3-12L2-7L2",
+        "rotation": "[-117,16,161]",
+        "img": "img/figures/fansfriends/kirkschair.png"
+      },
+      {
+        "id": "fansfriends-052-compact-xavier-c",
+        "title": "Compact - Xavier C.",
+        "notation": "8L2-7R2-6R1-5R2-9R1-10R2-11L2-5L2-4L2-3R2-2R3-1R1-2L2-12L2-12R2",
+        "rotation": "[-53,-3,-112]",
+        "img": "img/figures/fansfriends/compact6.png"
+      },
+      {
+        "id": "fansfriends-053-noname-robert-b",
+        "title": "Noname - Robert B.",
+        "notation": "2L3-2R3-4L2-6L3-5R3-4R2-6R1-7L1-7R3-8L3-8R3-9R2-10L2-11R3-12L3",
+        "rotation": "[-61,-38,-88]",
+        "img": "img/figures/fansfriends/noname2.png"
+      },
+      {
+        "id": "fansfriends-054-noname-2-robert-b",
+        "title": "Noname 2 - Robert B.",
+        "notation": "2L3-2R3-4L2-6L3-5R3-4R2-6R3-7R3-7L2-8L3-8R3-9R2-10L2-11R3-12L3",
+        "rotation": "[26,-45,0]",
+        "img": "img/figures/fansfriends/noname3.png"
+      },
+      {
+        "id": "fansfriends-055-elephant-saverio-c",
+        "title": "Elephant - Saverio C.",
+        "notation": "2L1-3L1-3R1-5L1-4R3-4L2-6L3-5R2-6R3-7R3-8R2-9L2-10L2-10R2-11R2-12L2",
+        "rotation": "[-177,27,-135]",
+        "img": "img/figures/fansfriends/elephant.png"
+      },
+      {
+        "id": "fansfriends-056-bow-elisa-h",
+        "title": "Bow - Elisa H.",
+        "notation": "2L3-3L3-3R2-4R1-5L3-6L3-6R1-7R1-8L3-9L3-9R1-11L3-10R2-12L3",
+        "rotation": "[-39,7,150]",
+        "img": "img/figures/fansfriends/bow3.png"
+      },
+      {
+        "id": "fansfriends-057-deep-space-nine-matjaz-e",
+        "title": "Deep Space Nine - Matjaz E.",
+        "notation": "1R3-3L3-4L3-3R2-5R3-6R3-6L2-8L3-9L1-10L2-8R2-12R1-11R2",
+        "rotation": "[54,25,-100]",
+        "img": "img/figures/fansfriends/deepspacenine.png"
+      },
+      {
+        "id": "fansfriends-058-spiral-staircase-brady-s",
+        "title": "Spiral staircase - Brady S.",
+        "notation": "1L3-2L3-1R2-3L3-4L3-3R2-5L3-6L3-5R2-7L3-8L3-7R2-9L3-10L3-9R2-11L3-12L3-11R2",
+        "rotation": "[-65,14,-10]",
+        "img": "img/figures/fansfriends/spiralstaircase.png"
+      },
+      {
+        "id": "fansfriends-059-swan-taunya-b",
+        "title": "Swan - Taunya B.",
+        "notation": "1R2-2L2-3L2-3R1-4L1-5L3-5R2-6L1-7L1-8L1-9L1-9R2-11L1-10L3-11R1-12R2-12L2",
+        "rotation": "[-148,16,-90]",
+        "img": "img/figures/fansfriends/swan4.png"
+      },
+      {
+        "id": "fansfriends-060-dog-geir-erik",
+        "title": "Dog - Geir Erik Ö.",
+        "notation": "1R1-2L2-3L2-3R2-5L2-6L2-6R1-7R3-12R3-12L2-11L2-10R2-9L2-8L2-7L2",
+        "rotation": "[156,9,24]",
+        "img": "img/figures/fansfriends/doggeir.png"
+      },
+      {
+        "id": "fansfriends-061-supercompact-t",
+        "title": "Supercompact - T.",
+        "notation": "1R3-2R3-2L2-3R1-3L2-4R3-4L2-5R3-7R3-6R3-6L2-12R3-11R3-12L2-10R1-11L2-9R3-10L2-8R3-8L2",
+        "rotation": "[-156,38,-178]",
+        "img": "img/figures/fansfriends/supercompact.png"
+      },
+      {
+        "id": "fansfriends-062-house-natalia-t",
+        "title": "House - Natalia T.",
+        "notation": "6L3-6R3-7R3-7L2-8L3-5L3-5R2-9L3-8R2-4L3-10L3-3L3-3R2-11L3-10R2-1R2-2L3-12R2-12L3",
+        "rotation": "[-67,5,-19]",
+        "img": "img/figures/fansfriends/house.png"
+      },
+      {
+        "id": "fansfriends-063-stairway-fabian-k",
+        "title": "Stairway - Fabian K.",
+        "notation": "1R2-2R2-3R2-4R2-5R2-6R2-7R2-8R2-9R2-10R2-11R2-12R2",
+        "rotation": "[-156,-35,-129]",
+        "img": "img/figures/fansfriends/stairway.png"
+      },
+      {
+        "id": "fansfriends-064-spiral-2d-fabian-k",
+        "title": "Spiral 2D - Fabian K.",
+        "notation": "12R2-12L2-10R2-9L2-6R2-4L2",
+        "rotation": "[0,0,135]",
+        "img": "img/figures/fansfriends/spiral2d.png"
+      },
+      {
+        "id": "fansfriends-065-spiral-3d-fabian-k",
+        "title": "Spiral 3D - Fabian K.",
+        "notation": "1R1-2L3-2R3-3L3-3R1-4L1-4R1-5L3-5R3-6L3-6R1-7L1-7R1-8L3-8R3-9L3-9R1-10L1-10R1-11L3-11R3-12L3-12R1",
+        "rotation": "[76,-45,-173]",
+        "img": "img/figures/fansfriends/spiral3d.png"
+      },
+      {
+        "id": "fansfriends-066-sculpture-eric",
+        "title": "Sculpture - Eric",
+        "notation": "1R2-3R3-4R1-4L2-6L3-6R1-7L1-7R1-8R3-8L1-10L1-11L3-10R2",
+        "rotation": "[6,-24,-44]",
+        "img": "img/figures/fansfriends/sculpture2.png"
+      },
+      {
+        "id": "fansfriends-067-gemstone-eric",
+        "title": "Gemstone - Eric",
+        "notation": "1R1-2L1-3L3-4L3-3R2-6L1-5R3-5L2-4R3-6R1-7L1-8L3-8R2-7R1-9L3-9R3-10R3-10L2-11R1-12L1",
+        "rotation": "[-126,8,137]",
+        "img": "img/figures/fansfriends/gemstone.png"
+      },
+      {
+        "id": "fansfriends-068-mask-tine",
+        "title": "Mask - Tine",
+        "notation": "1R1-2R2-3R3-4L1-4R3-5L3-6L3-6R1-5R3-8R2-7R3-9R1-10R3-11L1-11R1-12R1-12L1",
+        "rotation": "[29,1,-90]",
+        "img": "img/figures/fansfriends/mask3.png"
+      }
+    ],
+    "victorsworld": []
+  }
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rubik's Snake Visualizer</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="app-header">
+  <h1>Rubik's Snake Visualizer</h1>
+  <nav class="view-tabs">
+    <button class="view-tab active" data-view="viewer">Catalog &amp; Viewer</button>
+    <button class="view-tab" data-view="guide">Notation Guide</button>
+  </nav>
+  <div class="header-credit">
+    Figures &amp; notation from <a href="http://thomas-wolter.de/rubik_easy_en.html" target="_blank" rel="noopener">thomas-wolter.de</a>
+  </div>
+</header>
+
+<main>
+  <section id="view-viewer" class="view active">
+    <aside class="catalog-pane">
+      <div class="catalog-controls">
+        <input id="search-input" type="search" placeholder="Search figures…" autocomplete="off">
+        <div class="category-tabs" id="category-tabs"></div>
+      </div>
+      <div class="catalog-grid" id="catalog-grid" aria-live="polite"></div>
+    </aside>
+
+    <section class="viewer-pane">
+      <div class="viewer-top">
+        <div class="figure-title" id="figure-title">Pick a figure from the catalog</div>
+        <div class="viewer-toolbar">
+          <label class="theme-select">
+            Colors
+            <select id="theme-select"></select>
+          </label>
+          <label class="checkbox-inline">
+            <input type="checkbox" id="autorotate-toggle">
+            Auto-rotate
+          </label>
+        </div>
+      </div>
+
+      <div class="canvas-wrap">
+        <canvas id="three-canvas"></canvas>
+        <div class="canvas-hint">Drag to orbit &middot; scroll to zoom</div>
+      </div>
+
+      <div class="transport">
+        <button id="btn-reset" title="Jump to start">⏮</button>
+        <button id="btn-step-back" title="Step back">◀ Step</button>
+        <button id="btn-play" title="Play / Pause">▶ Play</button>
+        <button id="btn-step-fwd" title="Step forward">Step ▶</button>
+        <button id="btn-end" title="Jump to end">⏭</button>
+        <label class="speed-control" title="Lower = faster steps">
+          Step duration
+          <input type="range" id="speed-slider" min="150" max="1600" step="50" value="650">
+        </label>
+        <span class="step-counter" id="step-counter">0 / 0</span>
+      </div>
+
+      <div class="progress-track" id="progress-track">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+
+      <div class="notation-display" id="notation-display">
+        <span class="notation-placeholder">Notation will appear here once you pick a figure.</span>
+      </div>
+
+      <details class="custom-notation">
+        <summary>Load custom notation</summary>
+        <p>Paste any notation string using the same rules (e.g. <code>2R2-3L2-4L2-5R2</code>) to build and animate it.</p>
+        <textarea id="custom-notation-input" rows="3" placeholder="e.g. 9R2-9L2-8L2-7R2-6R2-6L2-5L3-4L2-3R2-2R2-2L2"></textarea>
+        <div class="custom-notation-actions">
+          <button id="custom-notation-load">Load &amp; animate</button>
+          <span id="custom-notation-error" class="error-text"></span>
+        </div>
+      </details>
+    </section>
+  </section>
+
+  <section id="view-guide" class="view">
+    <div class="guide-content" id="guide-content">
+      <!-- populated by js/main.js -->
+    </div>
+  </section>
+</main>
+
+<footer class="app-footer">
+  Built as a local visualizer for the Rubik's Snake puzzle notation documented at
+  <a href="http://thomas-wolter.de/rubik_notation_en.html" target="_blank" rel="noopener">thomas-wolter.de/rubik_notation_en.html</a>.
+  Shape catalog sourced from the site's easy, hard, manuals and fans &amp; friends galleries (260 figures).
+  All figures, photography and credits belong to their original creators (Thomas Wolter, Victor Stok and contributors).
+</footer>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
